@@ -149,6 +149,7 @@ Ce projet démontre qu'une transformation numérique réussie repose sur l'align
 * Valeur Financière : Récupération de 8 à 13 % de tonnages perdus, assurant un retour sur investissement (ROI) modélisé sous 18 mois.
 * Valeur Stratégique & Commerciale : Pérennisation des contrats avec les multinationales du chocolat grâce à une certification infalsifiable par QR Code.
 * Valeur Sociale & Éthique : Protection active des forêts classées ivoiriennes et élimination du travail des enfants dans la filière d'approvisionnement.
+  ![Modélisation des Processus SAAC](tracabilite-cacao-as-is-to-be.svg)
 
 ---
 Projet d'étude conçu et formalisé par Joye Badou — Spécialisation en Gouvernance des Systèmes d'Information
