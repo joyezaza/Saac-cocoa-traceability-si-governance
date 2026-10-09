@@ -1,0 +1,391 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="4832" viewBox="0 0 1000 4832" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo1NTNkMmVjZC0yZmU1LTQwMWMtYTY0MS1mYjMyYTRjNDhlZTEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMAyrO0EBQAdjDvU7vhFuewAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjMDg0Zjg2Yy1hZTFhLTQzNmYtODUyYS1hNTAyZmZmMzdiYTlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo59QvNU5CD0+qU1wX1oKQHwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggEfcVXIaLY29udkgzoHEOU1XDN9ERqCv60lFN/LcMaBCkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDOEUGJXtPPyAStlabab+c8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDz6p8ghpggB3eXyGtQ8GYqvvSa78rHa9mI+rfNQX5elWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjfZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjU1M2QyZWNkLTJmZTUtNDAxYy1hNjQxLWZiMzJhNGM0OGVlMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjBkZTM2ZDJiLTlkMWQtNDBlOS05YjZmLTdjYmExMzI4OGY3MXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAR9xVchotjb252SDOgcQ5TVcM30RGoK/rSUU38twxoEKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggRGiQ5w+Ca8IJHdFH01IIAKXRPDePNP+fp106GFVTQO+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggy6qG+UOhFkeQWRba82CQy+ZhoX8ne/KZJrd3lO79XC10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQK7CLnmhLOqUuMfDPUOQJMcl3KmxjsAWhqsy6BjzyPUxdKBAHCoqeCcXxBeF57rFveSG6TiKCfSXTcidE8rJ+9c=</c2pa:manifest></metadata>
+<title>Traçabilité du cacao : du processus traditionnel au système d’information intégré</title>
+<defs>
+<filter id="sh" x="-5%" y="-10%" width="110%" height="130%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#13243D" flood-opacity="0.10"/></filter>
+<marker id="ar" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#B91C1C"/></marker>
+<marker id="ag" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#047857"/></marker>
+<marker id="ad" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#13243D"/></marker>
+</defs>
+<rect width="1000" height="4832" fill="#F4F6F9"/>
+<rect x="0" y="0" width="1000" height="300" rx="0" fill="#13243D"/>
+<rect x="40" y="40" width="250" height="30" rx="15" fill="#F2C46D"/>
+<text x="165" y="61" font-size="13" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="165" dy="0.0">CAS SAAC · FILIÈRE CACAO</tspan></text>
+<text x="40" y="118" font-size="34" font-weight="800" fill="#FFFFFF" text-anchor="start"><tspan x="40" dy="0.0">TRAÇABILITÉ DU CACAO : DU PROCESSUS TRADITIONNEL AU</tspan><tspan x="40" dy="40.1">SYSTÈME D’INFORMATION INTÉGRÉ</tspan></text>
+<text x="40" y="208.24" font-size="18" font-weight="400" fill="#C9D6E8" text-anchor="start"><tspan x="40" dy="0.0">Analyse comparative As-Is vs To-Be : modélisation des flux, points de fraude et gouvernance</tspan><tspan x="40" dy="23.8">technologique</tspan></text>
+<rect x="40" y="332" width="920" height="60" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<rect x="62" y="352" width="22" height="22" rx="5" fill="#FDECEC" stroke="#B91C1C" stroke-width="1"/>
+<text x="94" y="369" font-size="14" font-weight="600" fill="#7F1D1D" text-anchor="start"><tspan x="94" dy="0.0">Dysfonctionnement, faille, perte (As-Is)</tspan></text>
+<rect x="400" y="352" width="22" height="22" rx="5" fill="#E6F6F1" stroke="#047857" stroke-width="1"/>
+<text x="432" y="369" font-size="14" font-weight="600" fill="#065F46" text-anchor="start"><tspan x="432" dy="0.0">Contrôle automatisé, flux sécurisé (To-Be)</tspan></text>
+<line x1="760" y1="363" x2="800" y2="363" stroke="#1D4ED8" stroke-width="3" stroke-linecap="round"/>
+<text x="810" y="369" font-size="14" font-weight="600" fill="#1E3A8A" text-anchor="start"><tspan x="810" dy="0.0">Flux de données</tspan></text>
+<rect x="0" y="430" width="1000" height="96" rx="0" fill="#7F1D1D"/>
+<text x="40" y="468" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="start"><tspan x="40" dy="0.0">PARTIE 1 — PROCESSUS ACTUEL (AS-IS)</tspan></text>
+<text x="40" y="500" font-size="16" font-weight="500" fill="#FBD5D5" text-anchor="start"><tspan x="40" dy="0.0">« Manuel, siloté et vulnérable » : 8 maillons, des flux papier et aucun contrôle croisé</tspan></text>
+<rect x="28" y="552" width="944" height="158.56" rx="16" fill="#FBF4F4"/>
+<rect x="40" y="560" width="180" height="142.56" rx="12" fill="#7F1D1D"/>
+<circle cx="64" cy="586" r="15" fill="#F2C46D"/>
+<text x="64" y="591" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">1</tspan></text>
+<text x="88" y="584" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Planteur /</tspan><tspan x="88" dy="19.8">coopérative</tspan></text>
+<rect x="236" y="560" width="360" height="142.56" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="588" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Proposition verbale des fèves</tspan></text>
+<rect x="610" y="560" width="312" height="142.56" rx="12" fill="#FDECEC" stroke="#E8A3A3" stroke-width="1.5"/>
+<path d="M632 577 L642 594 L622 594 Z" fill="#B91C1C"/><text x="632" y="592" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="650" y="581" font-size="11.5" font-weight="800" fill="#B91C1C" text-anchor="start"><tspan x="650" dy="0.0">FAILLE</tspan></text>
+<text x="630" y="606" font-size="14.5" font-weight="600" fill="#7F1D1D" text-anchor="start"><tspan x="630" dy="0.0">Aucun contrôle cadastral · fèves</tspan><tspan x="630" dy="19.1">issues de forêts classées</tspan><tspan x="630" dy="19.1">interdites · risque de travail des</tspan><tspan x="630" dy="19.1">enfants</tspan></text>
+<line x1="922" y1="631.28" x2="950" y2="631.28" stroke="#E8A3A3" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<circle cx="950" cy="631.28" r="5" fill="#B91C1C"/>
+<line x1="416.0" y1="704.56" x2="416.0" y2="740.56" stroke="#B91C1C" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+<rect x="28" y="740.56" width="944" height="120.28" rx="16" fill="#FBF4F4"/>
+<rect x="40" y="748.56" width="180" height="104.28" rx="12" fill="#7F1D1D"/>
+<circle cx="64" cy="774.56" r="15" fill="#F2C46D"/>
+<text x="64" y="779.56" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">2</tspan></text>
+<text x="88" y="772.56" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Acheteur /</tspan><tspan x="88" dy="19.8">commercial</tspan></text>
+<rect x="236" y="748.56" width="360" height="104.28" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="776.56" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Négociation de gré à gré</tspan></text>
+<text x="256" y="803.02" font-size="13.5" font-weight="400" fill="#5A6474" text-anchor="start" font-style="italic"><tspan x="256" dy="0.0">Carnet papier à souche</tspan></text>
+<rect x="610" y="748.56" width="312" height="104.28" rx="12" fill="#FDECEC" stroke="#E8A3A3" stroke-width="1.5"/>
+<path d="M632 765.56 L642 782.56 L622 782.56 Z" fill="#B91C1C"/><text x="632" y="780.56" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="650" y="769.56" font-size="11.5" font-weight="800" fill="#B91C1C" text-anchor="start"><tspan x="650" dy="0.0">FAILLE</tspan></text>
+<text x="630" y="794.56" font-size="14.5" font-weight="600" fill="#7F1D1D" text-anchor="start"><tspan x="630" dy="0.0">Poids sous-déclaré · prix</tspan><tspan x="630" dy="19.1">arbitraire</tspan></text>
+<line x1="922" y1="800.6999999999999" x2="950" y2="800.6999999999999" stroke="#E8A3A3" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<circle cx="950" cy="800.6999999999999" r="5" fill="#B91C1C"/>
+<line x1="416.0" y1="854.8399999999999" x2="416.0" y2="890.8399999999999" stroke="#B91C1C" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+<rect x="28" y="890.8399999999999" width="944" height="120.28" rx="16" fill="#FBF4F4"/>
+<rect x="40" y="898.8399999999999" width="180" height="104.28" rx="12" fill="#7F1D1D"/>
+<circle cx="64" cy="924.8399999999999" r="15" fill="#F2C46D"/>
+<text x="64" y="929.8399999999999" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">3</tspan></text>
+<text x="88" y="922.8399999999999" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Chauffeur /</tspan><tspan x="88" dy="19.8">collecte</tspan></text>
+<rect x="236" y="898.8399999999999" width="360" height="104.28" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="926.8399999999999" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Transport en vrac</tspan></text>
+<text x="256" y="953.3" font-size="13.5" font-weight="400" fill="#5A6474" text-anchor="start" font-style="italic"><tspan x="256" dy="0.0">Aucun suivi GPS</tspan></text>
+<rect x="610" y="898.8399999999999" width="312" height="104.28" rx="12" fill="#FDECEC" stroke="#E8A3A3" stroke-width="1.5"/>
+<path d="M632 915.8399999999999 L642 932.8399999999999 L622 932.8399999999999 Z" fill="#B91C1C"/><text x="632" y="930.8399999999999" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="650" y="919.8399999999999" font-size="11.5" font-weight="800" fill="#B91C1C" text-anchor="start"><tspan x="650" dy="0.0">FAILLE</tspan></text>
+<text x="630" y="944.8399999999999" font-size="14.5" font-weight="600" fill="#7F1D1D" text-anchor="start"><tspan x="630" dy="0.0">Détournement de sacs · chargements</tspan><tspan x="630" dy="19.1">pirates en route</tspan></text>
+<line x1="922" y1="950.9799999999999" x2="950" y2="950.9799999999999" stroke="#E8A3A3" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<circle cx="950" cy="950.9799999999999" r="5" fill="#B91C1C"/>
+<line x1="416.0" y1="1005.1199999999999" x2="416.0" y2="1041.12" stroke="#B91C1C" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+<rect x="28" y="1041.12" width="944" height="139.2" rx="16" fill="#FBF4F4"/>
+<rect x="40" y="1049.12" width="180" height="123.2" rx="12" fill="#7F1D1D"/>
+<circle cx="64" cy="1075.12" r="15" fill="#F2C46D"/>
+<text x="64" y="1080.12" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">4</tspan></text>
+<text x="88" y="1073.12" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Magasin</tspan><tspan x="88" dy="19.8">régional</tspan><tspan x="88" dy="19.8">(magasinier &amp;</tspan><tspan x="88" dy="19.8">analyseur)</tspan></text>
+<rect x="236" y="1049.12" width="360" height="123.2" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="1077.12" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Pesée sur peson mécanique manuel</tspan></text>
+<text x="256" y="1103.58" font-size="13.5" font-weight="400" fill="#5A6474" text-anchor="start" font-style="italic"><tspan x="256" dy="0.0">Analyse de qualité visuelle</tspan></text>
+<rect x="610" y="1049.12" width="312" height="123.2" rx="12" fill="#FDECEC" stroke="#E8A3A3" stroke-width="1.5"/>
+<path d="M632 1066.12 L642 1083.12 L622 1083.12 Z" fill="#B91C1C"/><text x="632" y="1081.12" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="650" y="1070.12" font-size="11.5" font-weight="800" fill="#B91C1C" text-anchor="start"><tspan x="650" dy="0.0">FAILLE</tspan></text>
+<text x="630" y="1095.12" font-size="14.5" font-weight="600" fill="#7F1D1D" text-anchor="start"><tspan x="630" dy="0.0">Complicité locale · reclassement</tspan><tspan x="630" dy="19.1">complaisant de cacao dégradé</tspan></text>
+<line x1="922" y1="1110.7199999999998" x2="950" y2="1110.7199999999998" stroke="#E8A3A3" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<circle cx="950" cy="1110.7199999999998" r="5" fill="#B91C1C"/>
+<line x1="416.0" y1="1174.32" x2="416.0" y2="1210.32" stroke="#B91C1C" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+<rect x="28" y="1210.32" width="944" height="120.28" rx="16" fill="#FBF4F4"/>
+<rect x="40" y="1218.32" width="180" height="104.28" rx="12" fill="#7F1D1D"/>
+<circle cx="64" cy="1244.32" r="15" fill="#F2C46D"/>
+<text x="64" y="1249.32" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">5</tspan></text>
+<text x="88" y="1242.32" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Chef de site &amp;</tspan><tspan x="88" dy="19.8">comptable</tspan></text>
+<rect x="236" y="1218.32" width="360" height="104.28" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="1246.32" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Registres papier manuels</tspan></text>
+<text x="256" y="1272.78" font-size="13.5" font-weight="400" fill="#5A6474" text-anchor="start" font-style="italic"><tspan x="256" dy="0.0">Décaissement d’espèces</tspan></text>
+<rect x="610" y="1218.32" width="312" height="104.28" rx="12" fill="#FDECEC" stroke="#E8A3A3" stroke-width="1.5"/>
+<path d="M632 1235.32 L642 1252.32 L622 1252.32 Z" fill="#B91C1C"/><text x="632" y="1250.32" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="650" y="1239.32" font-size="11.5" font-weight="800" fill="#B91C1C" text-anchor="start"><tspan x="650" dy="0.0">FAILLE</tspan></text>
+<text x="630" y="1264.32" font-size="14.5" font-weight="600" fill="#7F1D1D" text-anchor="start"><tspan x="630" dy="0.0">Aucun contrôle centralisé des</tspan><tspan x="630" dy="19.1">sorties d’argent</tspan></text>
+<line x1="922" y1="1270.46" x2="950" y2="1270.46" stroke="#E8A3A3" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<circle cx="950" cy="1270.46" r="5" fill="#B91C1C"/>
+<line x1="416.0" y1="1324.6" x2="416.0" y2="1360.6" stroke="#B91C1C" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+<rect x="28" y="1360.6" width="944" height="120.28" rx="16" fill="#FBF4F4"/>
+<rect x="40" y="1368.6" width="180" height="104.28" rx="12" fill="#7F1D1D"/>
+<circle cx="64" cy="1394.6" r="15" fill="#F2C46D"/>
+<text x="64" y="1399.6" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">6</tspan></text>
+<text x="88" y="1392.6" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Transport vers</tspan><tspan x="88" dy="19.8">le port</tspan></text>
+<rect x="236" y="1368.6" width="360" height="104.28" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="1396.6" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Camions tiers</tspan></text>
+<text x="256" y="1423.06" font-size="13.5" font-weight="400" fill="#5A6474" text-anchor="start" font-style="italic"><tspan x="256" dy="0.0">Aucun scellé</tspan></text>
+<rect x="610" y="1368.6" width="312" height="104.28" rx="12" fill="#FDECEC" stroke="#E8A3A3" stroke-width="1.5"/>
+<path d="M632 1385.6 L642 1402.6 L622 1402.6 Z" fill="#B91C1C"/><text x="632" y="1400.6" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="650" y="1389.6" font-size="11.5" font-weight="800" fill="#B91C1C" text-anchor="start"><tspan x="650" dy="0.0">FAILLE</tspan></text>
+<text x="630" y="1414.6" font-size="14.5" font-weight="600" fill="#7F1D1D" text-anchor="start"><tspan x="630" dy="0.0">Pertes de tonnage inexpliquées : 5</tspan><tspan x="630" dy="19.1">à 15 %</tspan></text>
+<line x1="922" y1="1420.74" x2="950" y2="1420.74" stroke="#E8A3A3" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<circle cx="950" cy="1420.74" r="5" fill="#B91C1C"/>
+<line x1="416.0" y1="1474.8799999999999" x2="416.0" y2="1510.8799999999999" stroke="#B91C1C" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+<rect x="28" y="1510.8799999999999" width="944" height="120.28" rx="16" fill="#FBF4F4"/>
+<rect x="40" y="1518.8799999999999" width="180" height="104.28" rx="12" fill="#7F1D1D"/>
+<circle cx="64" cy="1544.8799999999999" r="15" fill="#F2C46D"/>
+<text x="64" y="1549.8799999999999" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">7</tspan></text>
+<text x="88" y="1542.8799999999999" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Laboratoire</tspan><tspan x="88" dy="19.8">portuaire &amp;</tspan><tspan x="88" dy="19.8">export</tspan></text>
+<rect x="236" y="1518.8799999999999" width="360" height="104.28" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="1546.8799999999999" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Seconde analyse contradictoire</tspan></text>
+<rect x="610" y="1518.8799999999999" width="312" height="104.28" rx="12" fill="#FDECEC" stroke="#E8A3A3" stroke-width="1.5"/>
+<path d="M632 1535.8799999999999 L642 1552.8799999999999 L622 1552.8799999999999 Z" fill="#B91C1C"/><text x="632" y="1550.8799999999999" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="650" y="1539.8799999999999" font-size="11.5" font-weight="800" fill="#B91C1C" text-anchor="start"><tspan x="650" dy="0.0">FAILLE</tspan></text>
+<text x="630" y="1564.8799999999999" font-size="14.5" font-weight="600" fill="#7F1D1D" text-anchor="start"><tspan x="630" dy="0.0">Litiges · déclassement de lots ·</tspan><tspan x="630" dy="19.1">pénalités financières</tspan></text>
+<line x1="922" y1="1571.02" x2="950" y2="1571.02" stroke="#E8A3A3" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<circle cx="950" cy="1571.02" r="5" fill="#B91C1C"/>
+<line x1="416.0" y1="1625.1599999999999" x2="416.0" y2="1661.1599999999999" stroke="#B91C1C" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 5" marker-end="url(#ar)"/>
+<rect x="28" y="1661.1599999999999" width="944" height="120.28" rx="16" fill="#FBF4F4"/>
+<rect x="40" y="1669.1599999999999" width="180" height="104.28" rx="12" fill="#7F1D1D"/>
+<circle cx="64" cy="1695.1599999999999" r="15" fill="#F2C46D"/>
+<text x="64" y="1700.1599999999999" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">8</tspan></text>
+<text x="88" y="1693.1599999999999" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Direction</tspan><tspan x="88" dy="19.8">générale</tspan><tspan x="88" dy="19.8">(Abidjan)</tspan></text>
+<rect x="236" y="1669.1599999999999" width="360" height="104.28" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="1697.1599999999999" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Réception des rapports papier</tspan></text>
+<text x="256" y="1723.62" font-size="13.5" font-weight="400" fill="#5A6474" text-anchor="start" font-style="italic"><tspan x="256" dy="0.0">7 jours de retard</tspan></text>
+<rect x="610" y="1669.1599999999999" width="312" height="104.28" rx="12" fill="#FDECEC" stroke="#E8A3A3" stroke-width="1.5"/>
+<path d="M632 1686.1599999999999 L642 1703.1599999999999 L622 1703.1599999999999 Z" fill="#B91C1C"/><text x="632" y="1701.1599999999999" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="650" y="1690.1599999999999" font-size="11.5" font-weight="800" fill="#B91C1C" text-anchor="start"><tspan x="650" dy="0.0">FAILLE</tspan></text>
+<text x="630" y="1715.1599999999999" font-size="14.5" font-weight="600" fill="#7F1D1D" text-anchor="start"><tspan x="630" dy="0.0">Pilotage à l’aveugle · preuve de</tspan><tspan x="630" dy="19.1">traçabilité RDUE impossible</tspan></text>
+<line x1="922" y1="1721.3" x2="950" y2="1721.3" stroke="#E8A3A3" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<circle cx="950" cy="1721.3" r="5" fill="#B91C1C"/>
+<line x1="950" y1="631.28" x2="950" y2="1721.3" stroke="#B91C1C" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 7"/>
+<text x="972" y="1176.29" font-size="13" font-weight="800" fill="#B91C1C" text-anchor="middle" transform="rotate(90 972 1176.29)" letter-spacing="1.5">FLUX PAPIER · RESSAISIES · 7 JOURS DE RETARD</text>
+<rect x="40" y="1829.4399999999998" width="920" height="70" rx="12" fill="#FDECEC" stroke="#B91C1C" stroke-width="2"/>
+<path d="M70 1855.4399999999998 L80 1872.4399999999998 L60 1872.4399999999998 Z" fill="#B91C1C"/><text x="70" y="1870.4399999999998" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="95" y="1859.4399999999998" font-size="15.5" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="95" dy="0.0">Bilan As-Is : la donnée naît sur papier, se perd entre les maillons et arrive trop tard.</tspan></text>
+<text x="95" y="1883.4399999999998" font-size="14.5" font-weight="400" fill="#7F1D1D" text-anchor="start"><tspan x="95" dy="0.0">Chaque transfert manuel est un point possible de fraude, d’erreur ou de perte.</tspan></text>
+<rect x="380" y="1939.4399999999998" width="240" height="44" rx="22" fill="#13243D"/>
+<text x="500" y="1967.4399999999998" font-size="16" font-weight="800" fill="#F2C46D" text-anchor="middle"><tspan x="500" dy="0.0">TRANSFORMATION ↓</tspan></text>
+<rect x="0" y="2013.4399999999998" width="1000" height="96" rx="0" fill="#065F46"/>
+<text x="40" y="2051.4399999999996" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="start"><tspan x="40" dy="0.0">PARTIE 2 — PROCESSUS CIBLE (TO-BE)</tspan></text>
+<text x="40" y="2083.4399999999996" font-size="16" font-weight="500" fill="#C7EFE2" text-anchor="start"><tspan x="40" dy="0.0">« Connecté, automatisé et infalsifiable » : la donnée est capturée à la source et contrôlée à chaque maillon</tspan></text>
+<rect x="28" y="2135.4399999999996" width="944" height="146.56" rx="16" fill="#F1F8F6"/>
+<rect x="40" y="2143.4399999999996" width="180" height="130.56" rx="12" fill="#0F4C5C"/>
+<circle cx="64" cy="2169.4399999999996" r="15" fill="#F2C46D"/>
+<text x="64" y="2174.4399999999996" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">1</tspan></text>
+<text x="88" y="2167.4399999999996" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Planteur /</tspan><tspan x="88" dy="19.8">parcelle</tspan><tspan x="88" dy="19.8">certifiée</tspan></text>
+<rect x="236" y="2143.4399999999996" width="360" height="130.56" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="2171.4399999999996" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Référentiel MDM des planteurs et</tspan><tspan x="256" dy="20.5">parcelles</tspan></text>
+<text x="256" y="2218.3599999999997" font-size="13.5" font-weight="600" fill="#1E3A8A" text-anchor="start"><tspan x="256" dy="0.0">Donnée : identifiant planteur + polygone de</tspan><tspan x="256" dy="17.8">parcelle</tspan></text>
+<rect x="610" y="2143.4399999999996" width="312" height="130.56" rx="12" fill="#E6F6F1" stroke="#7CCBB3" stroke-width="1.5"/>
+<circle cx="632" cy="2167.4399999999996" r="10" fill="#047857"/><path d="M627 2167.4399999999996 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="650" y="2172.4399999999996" font-size="11.5" font-weight="800" fill="#047857" text-anchor="start"><tspan x="650" dy="0.0">CONTRÔLE AUTOMATIQUE</tspan></text>
+<text x="630" y="2195.4399999999996" font-size="14.5" font-weight="600" fill="#065F46" text-anchor="start"><tspan x="630" dy="0.0">Contrôle cadastral numérique</tspan><tspan x="630" dy="19.1">anti-déforestation</tspan></text>
+<line x1="922" y1="2208.72" x2="950" y2="2208.72" stroke="#1D4ED8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="950" cy="2208.72" r="6" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="416.0" y1="2275.9999999999995" x2="416.0" y2="2311.9999999999995" stroke="#047857" stroke-width="3" stroke-linecap="round" marker-end="url(#ag)"/>
+<rect x="28" y="2311.9999999999995" width="944" height="128.74" rx="16" fill="#F1F8F6"/>
+<rect x="40" y="2319.9999999999995" width="180" height="112.74000000000001" rx="12" fill="#0F4C5C"/>
+<circle cx="64" cy="2345.9999999999995" r="15" fill="#F2C46D"/>
+<text x="64" y="2350.9999999999995" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">2</tspan></text>
+<text x="88" y="2343.9999999999995" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Commercial</tspan><tspan x="88" dy="19.8">terrain</tspan></text>
+<rect x="236" y="2319.9999999999995" width="360" height="112.74000000000001" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="2347.9999999999995" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Application mobile hors ligne,</tspan><tspan x="256" dy="20.5">synchronisée, avec géolocalisation GPS</tspan></text>
+<text x="256" y="2394.9199999999996" font-size="13.5" font-weight="600" fill="#1E3A8A" text-anchor="start"><tspan x="256" dy="0.0">Donnée : position GPS + parcelle d’origine</tspan></text>
+<rect x="610" y="2319.9999999999995" width="312" height="112.74000000000001" rx="12" fill="#E6F6F1" stroke="#7CCBB3" stroke-width="1.5"/>
+<circle cx="632" cy="2343.9999999999995" r="10" fill="#047857"/><path d="M627 2343.9999999999995 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="650" y="2348.9999999999995" font-size="11.5" font-weight="800" fill="#047857" text-anchor="start"><tspan x="650" dy="0.0">CONTRÔLE AUTOMATIQUE</tspan></text>
+<text x="630" y="2371.9999999999995" font-size="14.5" font-weight="600" fill="#065F46" text-anchor="start"><tspan x="630" dy="0.0">Blocage automatique de l’achat si</tspan><tspan x="630" dy="19.1">hors parcelle certifiée</tspan></text>
+<line x1="922" y1="2376.3699999999994" x2="950" y2="2376.3699999999994" stroke="#1D4ED8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="950" cy="2376.3699999999994" r="6" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="416.0" y1="2434.74" x2="416.0" y2="2470.74" stroke="#047857" stroke-width="3" stroke-linecap="round" marker-end="url(#ag)"/>
+<rect x="28" y="2470.74" width="944" height="120.28" rx="16" fill="#F1F8F6"/>
+<rect x="40" y="2478.74" width="180" height="104.28" rx="12" fill="#0F4C5C"/>
+<circle cx="64" cy="2504.74" r="15" fill="#F2C46D"/>
+<text x="64" y="2509.74" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">3</tspan></text>
+<text x="88" y="2502.74" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Pesée bord</tspan><tspan x="88" dy="19.8">champ (IoT &amp;</tspan><tspan x="88" dy="19.8">edge)</tspan></text>
+<rect x="236" y="2478.74" width="360" height="104.28" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="2506.74" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Balance connectée communicante</tspan></text>
+<text x="256" y="2533.2" font-size="13.5" font-weight="600" fill="#1E3A8A" text-anchor="start"><tspan x="256" dy="0.0">Donnée : poids chiffré et horodaté</tspan></text>
+<rect x="610" y="2478.74" width="312" height="104.28" rx="12" fill="#E6F6F1" stroke="#7CCBB3" stroke-width="1.5"/>
+<circle cx="632" cy="2502.74" r="10" fill="#047857"/><path d="M627 2502.74 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="650" y="2507.74" font-size="11.5" font-weight="800" fill="#047857" text-anchor="start"><tspan x="650" dy="0.0">CONTRÔLE AUTOMATIQUE</tspan></text>
+<text x="630" y="2530.74" font-size="14.5" font-weight="600" fill="#065F46" text-anchor="start"><tspan x="630" dy="0.0">Aucune saisie manuelle : le poids</tspan><tspan x="630" dy="19.1">est scellé dès la pesée</tspan></text>
+<line x1="922" y1="2530.8799999999997" x2="950" y2="2530.8799999999997" stroke="#1D4ED8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="950" cy="2530.8799999999997" r="6" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="416.0" y1="2585.02" x2="416.0" y2="2621.02" stroke="#047857" stroke-width="3" stroke-linecap="round" marker-end="url(#ag)"/>
+<rect x="28" y="2621.02" width="944" height="139.42000000000002" rx="16" fill="#F1F8F6"/>
+<rect x="40" y="2629.02" width="180" height="123.42" rx="12" fill="#0F4C5C"/>
+<circle cx="64" cy="2655.02" r="15" fill="#F2C46D"/>
+<text x="64" y="2660.02" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">4</tspan></text>
+<text x="88" y="2653.02" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Transport &amp;</tspan><tspan x="88" dy="19.8">flotte</tspan></text>
+<rect x="236" y="2629.02" width="360" height="123.42" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="2657.02" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Boîtiers télématiques GPS avec</tspan><tspan x="256" dy="20.5">géorepérage (geofencing)</tspan></text>
+<text x="256" y="2703.94" font-size="13.5" font-weight="600" fill="#1E3A8A" text-anchor="start"><tspan x="256" dy="0.0">Donnée : trajet GPS en continu</tspan></text>
+<rect x="610" y="2629.02" width="312" height="123.42" rx="12" fill="#E6F6F1" stroke="#7CCBB3" stroke-width="1.5"/>
+<circle cx="632" cy="2653.02" r="10" fill="#047857"/><path d="M627 2653.02 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="650" y="2658.02" font-size="11.5" font-weight="800" fill="#047857" text-anchor="start"><tspan x="650" dy="0.0">CONTRÔLE AUTOMATIQUE</tspan></text>
+<text x="630" y="2681.02" font-size="14.5" font-weight="600" fill="#065F46" text-anchor="start"><tspan x="630" dy="0.0">Alerte immédiate au siège : arrêt</tspan><tspan x="630" dy="19.1">suspect ou incursion en forêt</tspan><tspan x="630" dy="19.1">protégée</tspan></text>
+<line x1="922" y1="2690.73" x2="950" y2="2690.73" stroke="#1D4ED8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="950" cy="2690.73" r="6" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="416.0" y1="2754.44" x2="416.0" y2="2790.44" stroke="#047857" stroke-width="3" stroke-linecap="round" marker-end="url(#ag)"/>
+<rect x="28" y="2790.44" width="944" height="139.42000000000002" rx="16" fill="#F1F8F6"/>
+<rect x="40" y="2798.44" width="180" height="123.42" rx="12" fill="#0F4C5C"/>
+<circle cx="64" cy="2824.44" r="15" fill="#F2C46D"/>
+<text x="64" y="2829.44" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">5</tspan></text>
+<text x="88" y="2822.44" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Magasin</tspan><tspan x="88" dy="19.8">régional</tspan><tspan x="88" dy="19.8">(séparation des</tspan><tspan x="88" dy="19.8">tâches)</tspan></text>
+<rect x="236" y="2798.44" width="360" height="123.42" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="2826.44" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Test d’humidité sur équipement</tspan><tspan x="256" dy="20.5">connecté</tspan></text>
+<text x="256" y="2873.36" font-size="13.5" font-weight="600" fill="#1E3A8A" text-anchor="start"><tspan x="256" dy="0.0">Donnée : rapport qualité</tspan></text>
+<rect x="610" y="2798.44" width="312" height="123.42" rx="12" fill="#E6F6F1" stroke="#7CCBB3" stroke-width="1.5"/>
+<circle cx="632" cy="2822.44" r="10" fill="#047857"/><path d="M627 2822.44 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="650" y="2827.44" font-size="11.5" font-weight="800" fill="#047857" text-anchor="start"><tspan x="650" dy="0.0">CONTRÔLE AUTOMATIQUE</tspan></text>
+<text x="630" y="2850.44" font-size="14.5" font-weight="600" fill="#065F46" text-anchor="start"><tspan x="630" dy="0.0">Rapprochement automatique à 3 voies</tspan><tspan x="630" dy="19.1">dans l’ERP : poids IoT + qualité +</tspan><tspan x="630" dy="19.1">GPS</tspan></text>
+<line x1="922" y1="2860.15" x2="950" y2="2860.15" stroke="#1D4ED8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="950" cy="2860.15" r="6" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="416.0" y1="2923.86" x2="416.0" y2="2959.86" stroke="#047857" stroke-width="3" stroke-linecap="round" marker-end="url(#ag)"/>
+<rect x="28" y="2959.86" width="944" height="128.74" rx="16" fill="#F1F8F6"/>
+<rect x="40" y="2967.86" width="180" height="112.74000000000001" rx="12" fill="#0F4C5C"/>
+<circle cx="64" cy="2993.86" r="15" fill="#F2C46D"/>
+<text x="64" y="2998.86" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">6</tspan></text>
+<text x="88" y="2991.86" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Dorsale ERP /</tspan><tspan x="88" dy="19.8">PGI centrale</tspan></text>
+<rect x="236" y="2967.86" width="360" height="112.74000000000001" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="2995.86" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Modules SCM, WMS / TMS et comptabilité</tspan><tspan x="256" dy="20.5">unifiés</tspan></text>
+<text x="256" y="3042.78" font-size="13.5" font-weight="600" fill="#1E3A8A" text-anchor="start"><tspan x="256" dy="0.0">Donnée : stocks et écritures comptables</tspan></text>
+<rect x="610" y="2967.86" width="312" height="112.74000000000001" rx="12" fill="#E6F6F1" stroke="#7CCBB3" stroke-width="1.5"/>
+<circle cx="632" cy="2991.86" r="10" fill="#047857"/><path d="M627 2991.86 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="650" y="2996.86" font-size="11.5" font-weight="800" fill="#047857" text-anchor="start"><tspan x="650" dy="0.0">CONTRÔLE AUTOMATIQUE</tspan></text>
+<text x="630" y="3019.86" font-size="14.5" font-weight="600" fill="#065F46" text-anchor="start"><tspan x="630" dy="0.0">Mise à jour des stocks et de la</tspan><tspan x="630" dy="19.1">comptabilité sans ressaisie</tspan></text>
+<line x1="922" y1="3024.23" x2="950" y2="3024.23" stroke="#1D4ED8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="950" cy="3024.23" r="6" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="416.0" y1="3082.6000000000004" x2="416.0" y2="3118.6000000000004" stroke="#047857" stroke-width="3" stroke-linecap="round" marker-end="url(#ag)"/>
+<rect x="28" y="3118.6000000000004" width="944" height="159.0" rx="16" fill="#F1F8F6"/>
+<rect x="40" y="3126.6000000000004" width="180" height="143.0" rx="12" fill="#0F4C5C"/>
+<circle cx="64" cy="3152.6000000000004" r="15" fill="#F2C46D"/>
+<text x="64" y="3157.6000000000004" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">7</tspan></text>
+<text x="88" y="3150.6000000000004" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Registre</tspan><tspan x="88" dy="19.8">distribué</tspan><tspan x="88" dy="19.8">(blockchain &amp;</tspan><tspan x="88" dy="19.8">smart</tspan><tspan x="88" dy="19.8">contracts)</tspan></text>
+<rect x="236" y="3126.6000000000004" width="360" height="143.0" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="3154.6000000000004" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Ancrage immuable des attributs du lot</tspan></text>
+<text x="256" y="3181.0600000000004" font-size="13.5" font-weight="600" fill="#1E3A8A" text-anchor="start"><tspan x="256" dy="0.0">Donnée : empreinte du lot + QR code</tspan></text>
+<rect x="610" y="3126.6000000000004" width="312" height="143.0" rx="12" fill="#E6F6F1" stroke="#7CCBB3" stroke-width="1.5"/>
+<circle cx="632" cy="3150.6000000000004" r="10" fill="#047857"/><path d="M627 3150.6000000000004 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="650" y="3155.6000000000004" font-size="11.5" font-weight="800" fill="#047857" text-anchor="start"><tspan x="650" dy="0.0">CONTRÔLE AUTOMATIQUE</tspan></text>
+<text x="630" y="3178.6000000000004" font-size="14.5" font-weight="600" fill="#065F46" text-anchor="start"><tspan x="630" dy="0.0">Rejet automatique si l’audit social</tspan><tspan x="630" dy="19.1">a expiré · émission du QR code</tspan><tspan x="630" dy="19.1">exportateur</tspan></text>
+<line x1="922" y1="3198.1000000000004" x2="950" y2="3198.1000000000004" stroke="#1D4ED8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="950" cy="3198.1000000000004" r="6" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="416.0" y1="3271.6000000000004" x2="416.0" y2="3307.6000000000004" stroke="#047857" stroke-width="3" stroke-linecap="round" marker-end="url(#ag)"/>
+<rect x="28" y="3307.6000000000004" width="944" height="128.74" rx="16" fill="#F1F8F6"/>
+<rect x="40" y="3315.6000000000004" width="180" height="112.74000000000001" rx="12" fill="#0F4C5C"/>
+<circle cx="64" cy="3341.6000000000004" r="15" fill="#F2C46D"/>
+<text x="64" y="3346.6000000000004" font-size="14" font-weight="800" fill="#13243D" text-anchor="middle"><tspan x="64" dy="0.0">8</tspan></text>
+<text x="88" y="3339.6000000000004" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="start"><tspan x="88" dy="0.0">Direction</tspan><tspan x="88" dy="19.8">générale</tspan><tspan x="88" dy="19.8">(Abidjan)</tspan></text>
+<rect x="236" y="3315.6000000000004" width="360" height="112.74000000000001" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="256" y="3343.6000000000004" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="256" dy="0.0">Tableau de bord exécutif (BI / EIS) en</tspan><tspan x="256" dy="20.5">temps réel</tspan></text>
+<text x="256" y="3390.5200000000004" font-size="13.5" font-weight="600" fill="#1E3A8A" text-anchor="start"><tspan x="256" dy="0.0">Indicateurs clés suivis en continu</tspan></text>
+<rect x="610" y="3315.6000000000004" width="312" height="112.74000000000001" rx="12" fill="#E6F6F1" stroke="#7CCBB3" stroke-width="1.5"/>
+<circle cx="632" cy="3339.6000000000004" r="10" fill="#047857"/><path d="M627 3339.6000000000004 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="650" y="3344.6000000000004" font-size="11.5" font-weight="800" fill="#047857" text-anchor="start"><tspan x="650" dy="0.0">CONTRÔLE AUTOMATIQUE</tspan></text>
+<text x="630" y="3367.6000000000004" font-size="14.5" font-weight="600" fill="#065F46" text-anchor="start"><tspan x="630" dy="0.0">TCEL 100 % · TCT &gt; 98 % · TCQ &gt; 95</tspan><tspan x="630" dy="19.1">%</tspan></text>
+<line x1="922" y1="3371.9700000000003" x2="950" y2="3371.9700000000003" stroke="#1D4ED8" stroke-width="2" stroke-linecap="round"/>
+<circle cx="950" cy="3371.9700000000003" r="6" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="2"/>
+<line x1="950" y1="2208.72" x2="950" y2="3371.9700000000003" stroke="#1D4ED8" stroke-width="4" stroke-linecap="round"/>
+<text x="972" y="2790.3450000000003" font-size="13" font-weight="800" fill="#1D4ED8" text-anchor="middle" transform="rotate(90 972 2790.3450000000003)" letter-spacing="1.5">FLUX DE DONNÉES TEMPS RÉEL → ERP → BLOCKCHAIN → BI</text>
+<rect x="40" y="3484.34" width="920" height="70" rx="12" fill="#E6F6F1" stroke="#047857" stroke-width="2"/>
+<circle cx="70" cy="3519.34" r="10" fill="#047857"/><path d="M65 3519.34 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="95" y="3514.34" font-size="15.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="95" dy="0.0">Bilan To-Be : la donnée est capturée à la source, vérifiée par recoupement et inaltérable.</tspan></text>
+<text x="95" y="3538.34" font-size="14.5" font-weight="400" fill="#065F46" text-anchor="start"><tspan x="95" dy="0.0">Chaque maillon produit une preuve exploitable par la direction, l’export et les autorités.</tspan></text>
+<rect x="0" y="3604.34" width="1000" height="96" rx="0" fill="#13243D"/>
+<text x="40" y="3642.34" font-size="24" font-weight="800" fill="#FFFFFF" text-anchor="start"><tspan x="40" dy="0.0">PARTIE 3 — SYNTHÈSE DE CRÉATION DE VALEUR</tspan></text>
+<text x="40" y="3674.34" font-size="16" font-weight="500" fill="#C9D6E8" text-anchor="start"><tspan x="40" dy="0.0">Gains attendus, points de fraude neutralisés et gouvernance technologique</tspan></text>
+<rect x="40" y="3734.34" width="920" height="50" rx="12" fill="#13243D"/>
+<text x="64" y="3766.34" font-size="13.5" font-weight="800" fill="#FFFFFF" text-anchor="start"><tspan x="64" dy="0.0">INDICATEUR</tspan></text>
+<text x="430" y="3766.34" font-size="13.5" font-weight="800" fill="#FBD5D5" text-anchor="start"><tspan x="430" dy="0.0">AS-IS</tspan></text>
+<text x="700" y="3766.34" font-size="13.5" font-weight="800" fill="#C7EFE2" text-anchor="start"><tspan x="700" dy="0.0">TO-BE</tspan></text>
+<rect x="40" y="3792.34" width="920" height="52" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="64" y="3824.34" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="64" dy="0.0">Pertes de tonnage</tspan></text>
+<rect x="420" y="3802.34" width="250" height="32" rx="8" fill="#FDECEC"/>
+<text x="436" y="3823.34" font-size="14.5" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="436" dy="0.0">5 à 15 %</tspan></text>
+<rect x="690" y="3802.34" width="250" height="32" rx="8" fill="#E6F6F1"/>
+<text x="706" y="3823.34" font-size="14.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="706" dy="0.0">&lt; 2 %</tspan></text>
+<rect x="40" y="3852.34" width="920" height="52" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="64" y="3884.34" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="64" dy="0.0">Délai de traçabilité d’un lot</tspan></text>
+<rect x="420" y="3862.34" width="250" height="32" rx="8" fill="#FDECEC"/>
+<text x="436" y="3883.34" font-size="14.5" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="436" dy="0.0">4 jours</tspan></text>
+<rect x="690" y="3862.34" width="250" height="32" rx="8" fill="#E6F6F1"/>
+<text x="706" y="3883.34" font-size="14.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="706" dy="0.0">&lt; 5 minutes</tspan></text>
+<rect x="40" y="3912.34" width="920" height="52" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="64" y="3944.34" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="64" dy="0.0">Conformité légale (RDUE)</tspan></text>
+<rect x="420" y="3922.34" width="250" height="32" rx="8" fill="#FDECEC"/>
+<text x="436" y="3943.34" font-size="14.5" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="436" dy="0.0">Non démontrable</tspan></text>
+<rect x="690" y="3922.34" width="250" height="32" rx="8" fill="#E6F6F1"/>
+<text x="706" y="3943.34" font-size="14.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="706" dy="0.0">100 % garantie</tspan></text>
+<rect x="40" y="3972.34" width="920" height="52" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="64" y="4004.34" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="64" dy="0.0">Information de la direction</tspan></text>
+<rect x="420" y="3982.34" width="250" height="32" rx="8" fill="#FDECEC"/>
+<text x="436" y="4003.34" font-size="14.5" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="436" dy="0.0">7 jours de retard</tspan></text>
+<rect x="690" y="3982.34" width="250" height="32" rx="8" fill="#E6F6F1"/>
+<text x="706" y="4003.34" font-size="14.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="706" dy="0.0">Temps réel</tspan></text>
+<rect x="40" y="4032.34" width="920" height="52" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="64" y="4064.34" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="64" dy="0.0">Saisies manuelles</tspan></text>
+<rect x="420" y="4042.34" width="250" height="32" rx="8" fill="#FDECEC"/>
+<text x="436" y="4063.34" font-size="14.5" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="436" dy="0.0">À chaque maillon</tspan></text>
+<rect x="690" y="4042.34" width="250" height="32" rx="8" fill="#E6F6F1"/>
+<text x="706" y="4063.34" font-size="14.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="706" dy="0.0">Aucune : capteurs et synchronisation</tspan></text>
+<rect x="40" y="4092.34" width="920" height="52" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="64" y="4124.34" font-size="15.5" font-weight="700" fill="#13243D" text-anchor="start"><tspan x="64" dy="0.0">Contrôle qualité</tspan></text>
+<rect x="420" y="4102.34" width="250" height="32" rx="8" fill="#FDECEC"/>
+<text x="436" y="4123.34" font-size="14.5" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="436" dy="0.0">Visuel, contesté au port</tspan></text>
+<rect x="690" y="4102.34" width="250" height="32" rx="8" fill="#E6F6F1"/>
+<text x="706" y="4123.34" font-size="14.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="706" dy="0.0">Mesuré, rapproché dans l’ERP</tspan></text>
+<text x="40" y="4176.34" font-size="22" font-weight="800" fill="#13243D" text-anchor="start"><tspan x="40" dy="0.0">Points de fraude neutralisés</tspan></text>
+<rect x="40" y="4208.34" width="455" height="60" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<path d="M62 4227.34 L72 4244.34 L52 4244.34 Z" fill="#B91C1C"/><text x="62" y="4242.34" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="80" y="4241.34" font-size="14" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="80" dy="0.0">Fèves de forêts classées</tspan></text>
+<line x1="280" y1="4236.34" x2="298" y2="4236.34" stroke="#13243D" stroke-width="2" stroke-linecap="round" marker-end="url(#ad)"/>
+<circle cx="318" cy="4236.34" r="10" fill="#047857"/><path d="M313 4236.34 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="334" y="4233.34" font-size="13.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="334" dy="0.0">MDM + contrôle</tspan><tspan x="334" dy="17.8">cadastral</tspan></text>
+<rect x="505" y="4208.34" width="455" height="60" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<path d="M527 4227.34 L537 4244.34 L517 4244.34 Z" fill="#B91C1C"/><text x="527" y="4242.34" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="545" y="4241.34" font-size="14" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="545" dy="0.0">Poids sous-déclaré</tspan></text>
+<line x1="745" y1="4236.34" x2="763" y2="4236.34" stroke="#13243D" stroke-width="2" stroke-linecap="round" marker-end="url(#ad)"/>
+<circle cx="783" cy="4236.34" r="10" fill="#047857"/><path d="M778 4236.34 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="799" y="4233.34" font-size="13.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="799" dy="0.0">Balance IoT, poids</tspan><tspan x="799" dy="17.8">chiffré</tspan></text>
+<rect x="40" y="4278.34" width="455" height="60" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<path d="M62 4297.34 L72 4314.34 L52 4314.34 Z" fill="#B91C1C"/><text x="62" y="4312.34" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="80" y="4311.34" font-size="14" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="80" dy="0.0">Sacs détournés en route</tspan></text>
+<line x1="280" y1="4306.34" x2="298" y2="4306.34" stroke="#13243D" stroke-width="2" stroke-linecap="round" marker-end="url(#ad)"/>
+<circle cx="318" cy="4306.34" r="10" fill="#047857"/><path d="M313 4306.34 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="334" y="4311.34" font-size="13.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="334" dy="0.0">GPS + géorepérage</tspan></text>
+<rect x="505" y="4278.34" width="455" height="60" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<path d="M527 4297.34 L537 4314.34 L517 4314.34 Z" fill="#B91C1C"/><text x="527" y="4312.34" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="545" y="4311.34" font-size="14" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="545" dy="0.0">Reclassement complaisant</tspan></text>
+<line x1="745" y1="4306.34" x2="763" y2="4306.34" stroke="#13243D" stroke-width="2" stroke-linecap="round" marker-end="url(#ad)"/>
+<circle cx="783" cy="4306.34" r="10" fill="#047857"/><path d="M778 4306.34 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="799" y="4303.34" font-size="13.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="799" dy="0.0">Séparation des</tspan><tspan x="799" dy="17.8">tâches + test</tspan><tspan x="799" dy="17.8">connecté</tspan></text>
+<rect x="40" y="4348.34" width="455" height="60" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<path d="M62 4367.34 L72 4384.34 L52 4384.34 Z" fill="#B91C1C"/><text x="62" y="4382.34" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="80" y="4381.34" font-size="14" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="80" dy="0.0">Espèces sans contrôle</tspan></text>
+<line x1="280" y1="4376.34" x2="298" y2="4376.34" stroke="#13243D" stroke-width="2" stroke-linecap="round" marker-end="url(#ad)"/>
+<circle cx="318" cy="4376.34" r="10" fill="#047857"/><path d="M313 4376.34 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="334" y="4373.34" font-size="13.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="334" dy="0.0">Comptabilité unifiée</tspan><tspan x="334" dy="17.8">dans l’ERP</tspan></text>
+<rect x="505" y="4348.34" width="455" height="60" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<path d="M527 4367.34 L537 4384.34 L517 4384.34 Z" fill="#B91C1C"/><text x="527" y="4382.34" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="545" y="4381.34" font-size="14" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="545" dy="0.0">Pertes vers le port</tspan></text>
+<line x1="745" y1="4376.34" x2="763" y2="4376.34" stroke="#13243D" stroke-width="2" stroke-linecap="round" marker-end="url(#ad)"/>
+<circle cx="783" cy="4376.34" r="10" fill="#047857"/><path d="M778 4376.34 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="799" y="4373.34" font-size="13.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="799" dy="0.0">Rapprochement à 3</tspan><tspan x="799" dy="17.8">voies</tspan></text>
+<rect x="40" y="4418.34" width="455" height="60" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<path d="M62 4437.34 L72 4454.34 L52 4454.34 Z" fill="#B91C1C"/><text x="62" y="4452.34" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="80" y="4451.34" font-size="14" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="80" dy="0.0">Litiges de qualité au port</tspan></text>
+<line x1="280" y1="4446.34" x2="298" y2="4446.34" stroke="#13243D" stroke-width="2" stroke-linecap="round" marker-end="url(#ad)"/>
+<circle cx="318" cy="4446.34" r="10" fill="#047857"/><path d="M313 4446.34 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="334" y="4443.34" font-size="13.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="334" dy="0.0">Qualité tracée +</tspan><tspan x="334" dy="17.8">registre immuable</tspan></text>
+<rect x="505" y="4418.34" width="455" height="60" rx="12" fill="#FFFFFF" filter="url(#sh)"/>
+<path d="M527 4437.34 L537 4454.34 L517 4454.34 Z" fill="#B91C1C"/><text x="527" y="4452.34" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">!</text>
+<text x="545" y="4451.34" font-size="14" font-weight="700" fill="#7F1D1D" text-anchor="start"><tspan x="545" dy="0.0">Pilotage à l’aveugle</tspan></text>
+<line x1="745" y1="4446.34" x2="763" y2="4446.34" stroke="#13243D" stroke-width="2" stroke-linecap="round" marker-end="url(#ad)"/>
+<circle cx="783" cy="4446.34" r="10" fill="#047857"/><path d="M778 4446.34 l3.5 3.5 l6 -7" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="799" y="4443.34" font-size="13.5" font-weight="700" fill="#065F46" text-anchor="start"><tspan x="799" dy="0.0">BI / EIS en temps</tspan><tspan x="799" dy="17.8">réel</tspan></text>
+<text x="40" y="4512.34" font-size="22" font-weight="800" fill="#13243D" text-anchor="start"><tspan x="40" dy="0.0">Gouvernance technologique</tspan></text>
+<rect x="40.0" y="4542.34" width="174.4" height="110" rx="14" fill="#0F4C5C"/>
+<text x="54.0" y="4572.34" font-size="15" font-weight="800" fill="#F2C46D" text-anchor="start"><tspan x="54.0" dy="0.0">Données de</tspan><tspan x="54.0" dy="19.8">référence</tspan></text>
+<text x="54.0" y="4614.34" font-size="13" font-weight="400" fill="#D7ECEA" text-anchor="start"><tspan x="54.0" dy="0.0">MDM planteurs et</tspan><tspan x="54.0" dy="17.2">parcelles</tspan></text>
+<rect x="226.4" y="4542.34" width="174.4" height="110" rx="14" fill="#0F4C5C"/>
+<text x="240.4" y="4572.34" font-size="15" font-weight="800" fill="#F2C46D" text-anchor="start"><tspan x="240.4" dy="0.0">Séparation des</tspan><tspan x="240.4" dy="19.8">tâches</tspan></text>
+<text x="240.4" y="4614.34" font-size="13" font-weight="400" fill="#D7ECEA" text-anchor="start"><tspan x="240.4" dy="0.0">pesée, qualité,</tspan><tspan x="240.4" dy="17.2">paiement distincts</tspan></text>
+<rect x="412.8" y="4542.34" width="174.4" height="110" rx="14" fill="#0F4C5C"/>
+<text x="426.8" y="4572.34" font-size="15" font-weight="800" fill="#F2C46D" text-anchor="start"><tspan x="426.8" dy="0.0">Preuve immuable</tspan></text>
+<text x="426.8" y="4614.34" font-size="13" font-weight="400" fill="#D7ECEA" text-anchor="start"><tspan x="426.8" dy="0.0">blockchain, smart</tspan><tspan x="426.8" dy="17.2">contracts</tspan></text>
+<rect x="599.2" y="4542.34" width="174.4" height="110" rx="14" fill="#0F4C5C"/>
+<text x="613.2" y="4572.34" font-size="15" font-weight="800" fill="#F2C46D" text-anchor="start"><tspan x="613.2" dy="0.0">Pilotage</tspan></text>
+<text x="613.2" y="4614.34" font-size="13" font-weight="400" fill="#D7ECEA" text-anchor="start"><tspan x="613.2" dy="0.0">BI / EIS, indicateurs</tspan><tspan x="613.2" dy="17.2">clés</tspan></text>
+<rect x="785.6" y="4542.34" width="174.4" height="110" rx="14" fill="#0F4C5C"/>
+<text x="799.6" y="4572.34" font-size="15" font-weight="800" fill="#F2C46D" text-anchor="start"><tspan x="799.6" dy="0.0">Conformité</tspan></text>
+<text x="799.6" y="4614.34" font-size="13" font-weight="400" fill="#D7ECEA" text-anchor="start"><tspan x="799.6" dy="0.0">RDUE, audit social</tspan></text>
+<rect x="0" y="4682.34" width="1000" height="150" rx="0" fill="#13243D"/>
+<text x="500" y="4734.34" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle"><tspan x="500" dy="0.0">La technologie ne remplace pas le contrôle : elle le rend systématique, traçable et vérifiable.</tspan></text>
+<text x="500" y="4768.34" font-size="12.5" font-weight="400" fill="#A9BEDB" text-anchor="middle"><tspan x="500" dy="0.0">RDUE : règlement de l’Union européenne sur la déforestation · MDM : gestion des données de référence · SoD : séparation des tâches</tspan></text>
+<text x="500" y="4790.34" font-size="12.5" font-weight="400" fill="#A9BEDB" text-anchor="middle"><tspan x="500" dy="0.0">ERP / PGI : progiciel de gestion intégré · SCM / WMS / TMS : chaîne logistique, entrepôts, transport · BI / EIS : informatique décisionnelle, système de direction</tspan></text>
+<text x="500" y="4812.34" font-size="12.5" font-weight="600" fill="#F2C46D" text-anchor="middle"><tspan x="500" dy="0.0">Valeurs To-Be : objectifs cibles du projet de transformation.</tspan></text>
+</svg>
