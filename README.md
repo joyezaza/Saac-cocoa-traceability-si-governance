@@ -79,8 +79,10 @@ L'architecture décloisonne les filiales régionales et le siège social à trav
 
 ## 5. Rôle Pratique et Opérationnel des Outils Technologiques
 
-1. L'ERP / PGI (Progiciel de Gestion Intégré) :
-Centralise les Achats, Stocks, Logistique et Comptabilité. Dès qu'un sac de cacao est scanné et pesé, l'ERP met à jour le stock disponible, calcule le paiement officiel, génère la liasse de transport et passe l'écriture comptable sans ressaisie.
+1. L'ERP / PGI (Progiciel de Gestion Intégré) & Modules SCM / WMS / TMS
+* **Périmètre :** Intègre et unifie les modules Achats, Stocks, Logistique (SCM/WMS/TMS) et Comptabilité financière.
+* **Utilité concrète :** Dès qu'un sac de cacao est scanné et pesé, l'ERP met à jour le stock disponible, applique la grille tarifaire officielle, génère la liasse de transport et passe l'écriture comptable sans aucune ressaisie manuelle.
+* **Le module WMS (Gestion d'entrepôt & Retraitement) :** Enregistre et trace spécifiquement les lots orientés vers la boucle de retraitement (séchage au soleil pour réduction d'humidité). Le système calcule automatiquement la freinte hydrique admissible (perte de masse d'eau théorique) selon le taux d'humidité initial et final mesuré par les capteurs connectés. Il interdit mathématiquement tout écart de tonnage non justifié lors du restockage et de la ré-analyse, éliminant ainsi les opportunités de vol masquées sous prétexte de séchage naturel.Centralise les Achats, Stocks, Logistique et Comptabilité. Dès qu'un sac de cacao est scanné et pesé, l'ERP met à jour le stock disponible, calcule le paiement officiel, génère la liasse de transport et passe l'écriture comptable sans ressaisie.
 
 2. Le Moteur Transactionnel (STT / TPS) :
 Garantit le respect des propriétés ACID (Atomicité, Cohérence, Isolation, Durabilité). Si la connexion mobile coupe au milieu d'un enregistrement en brousse, la transaction n'est pas corrompue et se resynchronise dès le retour du réseau.
@@ -123,13 +125,13 @@ Cybersécurité & Modèle Zero Trust (Alignement ISO/IEC 27001 & 27002) :
 
 ## 7. Indicateurs Clés de Performance (KPI / KRI) & Métriques Cibles
 
-| Indicateur | Typologie | Définition & Formule de Calcul | Cible Visée |
-| :--- | :--- | :--- | :--- |
-| TCEL (Taux de Conformité Éthique & Légale) | KPI Efficacité | (Lots validés conformes RDUE / Total lots achetés) * 100 | 100 % |
-| TCT (Taux de Conformité des Tonnages) | KPI Efficience | (Tonnage réceptionné port / Tonnage acheté bord champ) * 100 | > 98 % (Pertes < 2 %) |
-| TCQ (Taux de Concordance Qualité) | KPI Contrôle | (Lots confirmés port / Lots catégorisés magasin) * 100 | > 95 % |
-| Temps de Traçabilité Bout-en-Bout | KPI Agilité | Temps pour extraire l'historique complet d'un lot exporté | < 5 minutes (vs 4 jours) |
-| KRI Alertes Géorepérage | KRI Risque | Tentatives d'achat ou de transit en zone protégée | 0 alerte non traitée |
+| Indicateur | Typologie | Définition & Formule de Calcul | Cible Visée | Impact & Contrôle Métier |
+| :--- | :--- | :--- | :--- | :--- |
+| **TCEL** *(Taux de Conformité Éthique & Légale)* | KPI Efficacité | $(Lots\ validés\ conformes\ RDUE / Total\ lots\ achetés) \times 100$ | **100 %** | Maintien de l'accès aux marchés européens (zéro cacao issu de déforestation ou travail d'enfants). |
+| **TCT** *(Taux de Conformité des Tonnages)* | KPI Efficience | $(Tonnage\ réceptionné\ port / Tonnage\ acheté\ bord\ champ) \times 100$ | **> 98 %** *(Pertes < 2 %)* | Élimination des pertes inexpliquées (réduites de 15 % à moins de 2 % de freinte naturelle). |
+| **TCQ** *(Taux de Concordance Qualité)* | KPI Contrôle | $(Lots\ confirmés\ conformes\ au\ port / Lots\ catégorisés\ au\ magasin) \times 100$ | **> 95 %** | Élimination de la complaisance des analystes tiers et validation de la stabilité des fèves après retraitement/séchage. |
+| **Temps de Traçabilité Bout-en-Bout** | KPI Agilité | Temps requis pour extraire l'historique complet d'un lot exporté | **< 5 minutes** *(vs 4 jours)* | Réponse immédiate aux exigences douanières et clients via QR Code. |
+| **KRI Alertes Géorepérage** | KRI Risque | Tentatives d'achat ou de transit détectées en zone forestière protégée | **0 alerte non traitée** | Blocage transactionnel automatique dès le premier kilomètre. |
 
 ---
 
