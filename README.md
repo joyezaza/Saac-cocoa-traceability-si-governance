@@ -36,33 +36,34 @@ La solution conçue ne se limite pas à informatiser des cahiers existants ; ell
 
 ## 2. Diagnostic de la Situation Actuelle (As-Is) & Dysfonctionnements
 
-Flux Actuel :
-* Étape 1 (Plantation) : Négociation orale bord champ, aucun contrôle d'origine ni d'âge des travailleurs.
-* Étape 2 (Transport initial) : Transport en vrac sans suivi, arrêts non tracés.
-* Étape 3 (Magasin régional) : Pesée mécanique sur peson manuel, enregistrement sur cahier papier.
-* Étape 4 (Analyse 1) : Évaluation visuelle de la qualité par le magasinier (fort risque de complaisance).
-* Étape 5 (Transport portuaire) : Camions tiers sans balise GPS, risques de déchargements sauvages.
-* Étape 6 (Arrivée au port) : Analyse 2 par un laboratoire tiers révélant des écarts de qualité et de tonnage inexpliqués.
+**Flux Actuel Détaillé :**
+* **Étape 1 (Plantation / Bord champ) :** Négociation orale de gré à gré en brousse. Aucun contrôle de l'origine cadastrale (risque d'intrusion en forêts classées protégées) ni vérification de l'âge de la main-d'œuvre (risque de travail des enfants).
+* **Étape 2 (Transport initial amont) :** Transport en vrac sans suivi ni feuille de route balisée. Arrêts non tracés favorisant les chargements pirates ou les substitutions de sacs.
+* **Étape 3 (Magasin régional / Réception) :** Pesée mécanique artisanale sur peson manuel à ressort. Enregistrement vulnérable sur cahiers et registres papier avec écriture manuscrite.
+* **Étape 4 (Analyse Qualité 1 locale) :** Évaluation manuelle avec des outils archaïques confiée à des analyseurs issus d'entreprises tierces, générant un risque critique de complaisance ou de corruption locale.  
+  * *Boucle intermédiaire de retraitement (en cas de non-conformité) :* Si le lot présente une humidité excessive ou des défauts, il subit un traitement manuel (étalage et séchage prolongé au soleil sur aires ouvertes). Cette étape engendre des manipulations répétées : pertes de matière par évaporation/vol, restockage, nouvelle pesée mécanique et ré-analyse manuelle, créant une source majeure d'écarts de stocks inexpliqués.
+* **Étape 5 (Transport portuaire aval) :** Camions gros porteurs sous-traités à des transporteurs tiers, sans balise GPS ni scellés électroniques, exposant la cargaison à des déchargements partiels ou détournements en route.
+* **Étape 6 (Arrivée au port d'Abidjan & Export) :** Analyse Qualité 2 contradictoire effectuée par un laboratoire portuaire tiers. Révélation fréquente d'écarts majeurs de tonnage (5 à 15 %) et de déclassements qualitatifs par rapport aux constats du magasin régional, provoquant litiges, pénalités financières et retards d'embarquement.
 
-Dysfonctionnements majeurs :
-1. Défaillance de la Qualité des Données : L'information sur papier souffre de redondances, d'erreurs d'écriture et de retards de plusieurs jours.
-2. Vulnérabilité à la Fraude Locale : L'absence de séparation des tâches permet aux magasiniers de manipuler les registres.
-3. Risque d'Exclusion Internationale : Incapacité d'apporter la preuve de non-déforestation exigée par l'UE (RDUE).
-4. Pilotage à l'Aveugle : La direction générale ne dispose d'aucun tableau de bord fiable en temps réel.
+**Dysfonctionnements majeurs :**
+1. **Défaillance et opacité des données :** Multiplicité des saisies manuelles sur papier, registres non synchronisés et impossibilité de vérifier les antécédents d'un lot.
+2. **Vulnérabilité aux arrangements locaux :** Recours à des analyseurs tiers sans traçabilité instrumentée et absence de séparation des tâches (**SoD**).
+3. **Pertes cumulées lors des retraitements :** Le séchage au soleil et les pesées successives créent un « trou noir » logistique masquant les vols sous couvert de freinte naturelle.
+4. **Risque de rejet международal (RDUE) :** Incapacité de certifier l'absence de déforestation et la légalité sociale dès le premier kilomètre.
+
 
 ---
 
 ## 3. Le Parcours Concret d'un Lot : Avant vs Après
 
-| Étape du Flux | Processus Actuel (As-Is / Papier) | Risques et Vulnérabilités | Processus Cible (To-Be / Numérique) | Contrôle et Sécurité Apportés |
+| Étape du Flux | Processus Actuel (As-Is / Manuel) | Risques et Vulnérabilités | Processus Cible (To-Be / Numérique) | Contrôle et Sécurité Apportés |
 | :--- | :--- | :--- | :--- | :--- |
-| 1. Enregistrement Plantation | Déclaration orale, aucun relevé géographique. | Achat de cacao cultivé en forêt classée interdite. | Cartographie GPS de la parcelle enregistrée dans le MDM. | Vérification automatique d'exclusion des zones protégées par cadastre numérique. |
-| 2. Achat bord champ & Pesée | Peson mécanique à ressort, reçu écrit à la main au crayon. | Falsification du poids par l'acheteur, vol de fèves, prix arbitraire. | Balance numérique connectée (IoT / Edge) et application mobile synchronisée. | Le poids est chiffré et horodaté dès la pesée ; aucun champ modifiable à la main. |
-| 3. Transport régional | Chauffeur sans suivi d'itinéraire, lettre de voiture papier. | Détournement du camion, chargement clandestin de sacs illégaux en route. | Balise télématique GPS sur le camion avec géorepérage (Geofencing). | Alerte immédiate au siège social si le véhicule s'arrête en zone anormale ou dévie de sa route. |
-| 4. Réception magasin & Qualité | Analyse visuelle manuelle notée sur cahier par le magasinier. | Corruption locale, reclassement complaisant de cacao moisi ou trop humide. | Analyseur d'humidité connecté et tablette dédiée au contrôleur qualité (Séparation SoD). | Rapprochement automatique 3 voies dans l'ERP (Poids IoT + Qualité + Identifiant Planteur). |
-| 5. Transport vers le Port | Transport vrac confié à des prestataires non tracés. | Déchargement partiel en cours de route, freintes inexpliquées (5 à 15 %). | Scellés électroniques RFID sur les conteneurs et pesée automatisée au pont-bascule portuaire. | Comparaison instantanée entre le tonnage de départ et d'arrivée ; tolérance fixée à moins de 2 %. |
-| 6. Vente et Export | Dossier douanier papier expédié par courrier, contestations fréquentes. | Rejet des cargaisons aux douanes européennes par manque de preuves RDUE. | Émission d'un QR Code lié à un contrat intelligent (Blockchain Smart Contract). | Les acheteurs scannent le lot et accèdent en 30 secondes à la preuve infalsifiable d'origine. |
-
+| **1. Enregistrement de la Plantation** | Déclaration orale de gré à gré, aucun relevé géographique formel. | Achat de cacao cultivé illégalement dans des forêts classées protégées ou recourant au travail des enfants. | Cartographie GPS de la parcelle enregistrée dans le référentiel **MDM** (*Master Data Management*). | Vérification automatique d'exclusion des zones protégées par cadastre numérique (conformité stricte RDUE). |
+| **2. Achat bord champ & Pesée initiale** | Peson mécanique à ressort, reçu écrit à la main au crayon sur carnet à souche. | Falsification du poids par l'acheteur, détournement de fèves, prix d'achat arbitraire non régulé. | Balance numérique connectée (**IoT / Edge**) et application mobile hors-ligne synchronisée. | Le poids est chiffré et horodaté dès la pesée ; aucun champ de poids n'est modifiable manuellement. |
+| **3. Transport amont initial** | Chauffeur sans suivi d'itinéraire, chargement en vrac sans scellés ni feuille de route numérique. | Arrêts non déclarés, substitution de sacs par du cacao dégradé ou ajouts clandestins en cours de route. | Balise télématique GPS sur le camion avec géorepérage actif (**Geofencing**). | Alerte immédiate transmise au siège social si le véhicule dévie du corridor prévu ou marque un arrêt suspect. |
+| **4. Réception magasin, Analyse 1 & Retraitement** | Évaluation manuelle avec outils archaïques par des analyseurs tiers (risque de complaisance). En cas de mauvaise qualité : étalage au soleil pour séchage, restockage, re-pesée mécanique et ré-analyse manuelles. | Corruption locale, faux certificats de conformité, pertes physiques de fèves lors des séchages successifs masquant des vols et amplifiant les écarts de stocks. | Analyseurs d'humidité électroniques connectés à l'application. Paramètres de séchage et freintes suivis en temps réel dans le module **WMS** avec séparation des tâches (**SoD**). | Rapprochement automatique 3 voies dans l'**ERP** (Poids IoT + Qualité + Identifiant Planteur). Données d'analyse scellées et inaltérables sans intervention humaine modifiable. |
+| **5. Transport aval vers le Port** | Camions gros porteurs sous-traités à des tiers sans balise GPS ni scellés électroniques. Feuille de route papier simple. | Déchargements partiels clandestins en route, disparition de sacs, pertes de tonnage inexpliquées (5 à 15 %). | Boîtiers télématiques GPS avec géorepérage (**Geofencing**) et scellés électroniques RFID sur les bennes de transport. | Détection immédiate de tout arrêt suspect hors couloir logistique ou ouverture de benne non planifiée avec remontée d'alerte au siège. |
+| **6. Arrivée au Port & Export International** | Seconde pesée et analyse contradictoire manuelle au port par laboratoire tiers sur bordereaux papier. | Litiges fréquents sur la qualité, déclassement inattendu de lots, lourdes pénalités financières et risque d'embargo douanier RDUE. | Double lecture RFID / pont-bascule portuaire intégrée à l'**ERP** et certification finale par **Blockchain (Smart Contract)**. | Tolérance d'écart de poids verrouillée à < 2 % (freinte naturelle). Émission d'un **QR Code** exportateur certifiant l'origine et la légalité en moins de 30 secondes. |
 ---
 
 ## 4. Architecture Cible du Système d'Information (To-Be)
