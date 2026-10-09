@@ -1,0 +1,478 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 4400" width="1000" height="4400" style="background:#F4F6F9; font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+
+  <defs>
+    <filter id="cardShadow" x="-5%" y="-2%" width="110%" height="106%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#0F172A" flood-opacity="0.07"/>
+    </filter>
+    <style>
+      .title-hero { font-size: 25px; font-weight: 800; fill: #FFFFFF; letter-spacing: -0.5px; }
+      .sub-hero { font-size: 13.5px; font-weight: 700; fill: #38BDF8; letter-spacing: 1.5px; }
+      .sec-title { font-size: 16px; font-weight: 800; fill: #FFFFFF; }
+      .card-title { font-size: 13px; font-weight: 800; fill: #0F172A; }
+      .body-text { font-size: 11px; font-weight: 400; fill: #334155; line-height: 1.45; }
+      .badge-text { font-size: 10.5px; font-weight: 700; fill: #FFFFFF; }
+      .side-text { font-size: 11px; font-weight: 700; letter-spacing: 1.2px; }
+    </style>
+  </defs>
+
+  <!-- ================= BANDEAUX LATÉRAUX ================= -->
+  <rect x="0" y="220" width="40" height="4180" fill="#0F172A"/>
+  <text x="20" y="1150" class="side-text" fill="#EF4444" transform="rotate(-90, 20, 1150)" text-anchor="middle">
+    PROCESSUS ACTUEL — FLUX MANUELS • ANALYSEURS TIERS • RETRAITEMENT OPAQUE • RISQUE RDUE
+  </text>
+  <text x="20" y="2850" class="side-text" fill="#10B981" transform="rotate(-90, 20, 2850)" text-anchor="middle">
+    PROCESSUS CIBLE — IoT • SÉPARATION SoD • ERP/WMS • BLOCKCHAIN • GOUVERNANCE INTÉGRÉE
+  </text>
+
+  <rect x="960" y="220" width="40" height="4180" fill="#0F172A"/>
+  <text x="980" y="1150" class="side-text" fill="#F59E0B" transform="rotate(90, 980, 1150)" text-anchor="middle">
+    DYSFONCTIONNEMENTS — 5 À 15% DE PERTES • RE-SÉCHAGES NON TRACÉS • CORRUPTION LOCALE
+  </text>
+  <text x="980" y="2850" class="side-text" fill="#38BDF8" transform="rotate(90, 980, 2850)" text-anchor="middle">
+    VALEUR CRÉÉE — CONCORDANCE QUALITÉ >95% • ZÉRO DÉFORESTATION • TRAÇABILITÉ &lt; 5 MIN
+  </text>
+
+  <!-- ================= EN-TÊTE PRINCIPAL ================= -->
+  <rect x="0" y="0" width="1000" height="220" fill="#0B132B"/>
+  <text x="60" y="42" class="sub-hero">ARCHITECTURE D'ENTREPRISE &amp; GOUVERNANCE DU SI — CAS SAAC</text>
+  <text x="60" y="76" class="title-hero">TRAÇABILITÉ DU CACAO : DU PROCESSUS TRADITIONNEL AU SI INTÉGRÉ</text>
+  <text x="60" y="104" font-size="13.5" font-weight="500" fill="#94A3B8">
+    Modélisation comparative As-Is vs To-Be : Intégration des contrôles qualité tiers, boucle de séchage et ERP.
+  </text>
+
+  <g transform="translate(60, 126)">
+    <rect x="0" y="0" width="135" height="24" rx="12" fill="#DC2626"/>
+    <text x="67" y="16" class="badge-text" text-anchor="middle">AS-IS : VULNÉRABLE</text>
+
+    <rect x="145" y="0" width="135" height="24" rx="12" fill="#059669"/>
+    <text x="212" y="16" class="badge-text" text-anchor="middle">TO-BE : SÉCURISÉ</text>
+
+    <rect x="290" y="0" width="135" height="24" rx="12" fill="#2563EB"/>
+    <text x="357" y="16" class="badge-text" text-anchor="middle">ERP / WMS &amp; SoD</text>
+
+    <rect x="435" y="0" width="135" height="24" rx="12" fill="#D97706"/>
+    <text x="502" y="16" class="badge-text" text-anchor="middle">IoT &amp; GEOFENCING</text>
+
+    <rect x="580" y="0" width="135" height="24" rx="12" fill="#7C3AED"/>
+    <text x="647" y="16" class="badge-text" text-anchor="middle">BLOCKCHAIN RDUE</text>
+  </g>
+
+  <rect x="60" y="164" width="880" height="42" rx="6" fill="#1E293B"/>
+  <text x="500" y="190" font-size="11.5" font-weight="700" fill="#38BDF8" text-anchor="middle">
+    Enjeu stratégique : Éliminer les fraudes de reclassement, fiabiliser les pesées et assurer la conformité RDUE.
+  </text>
+
+  <!-- ========================================================================= -->
+  <!-- PARTIE 1 : PROCESSUS ACTUEL (AS-IS) MIS À JOUR                            -->
+  <!-- ========================================================================= -->
+  <g transform="translate(60, 240)">
+    <rect x="0" y="0" width="880" height="45" rx="8" fill="#991B1B"/>
+    <text x="20" y="28" class="sec-title">PARTIE 1 — LE PROCESSUS ACTUEL (AS-IS) : « MANUEL, SILOTÉ ET VULNÉRABLE »</text>
+
+    <g transform="translate(0, 55)">
+
+      <!-- Étape 1 : Plantation -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="880" height="120" rx="8" fill="#FFFFFF" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="120" rx="8" fill="#FEF2F2" stroke="#FCA5A5"/>
+        <text x="90" y="45" font-size="12" font-weight="800" fill="#991B1B" text-anchor="middle">1. PLANTATION /</text>
+        <text x="90" y="65" font-size="12" font-weight="800" fill="#991B1B" text-anchor="middle">BORD CHAMP</text>
+        <text x="90" y="88" font-size="9.5" font-weight="600" fill="#B91C1C" text-anchor="middle">[Origine Non Tracée]</text>
+
+        <rect x="200" y="15" width="270" height="90" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="215" y="38" class="card-title">Flux Opérationnel Actuel</text>
+        <text x="215" y="58" class="body-text">• Négociation orale de gré à gré.</text>
+        <text x="215" y="76" class="body-text">• Reçu papier manuel au crayon.</text>
+        <text x="215" y="94" class="body-text">• Pesée sur peson mécanique rudimentaire.</text>
+
+        <rect x="490" y="15" width="375" height="90" rx="6" fill="#FEF2F2" stroke="#EF4444"/>
+        <text x="505" y="36" font-size="11.5" font-weight="800" fill="#B91C1C">⚠️ NON-CONFORMITÉ &amp; FRAUDE INITIALE</text>
+        <text x="505" y="56" class="body-text">• Aucun contrôle cadastral (parcelles en forêts protégées déboisées).</text>
+        <text x="505" y="78" class="body-text">• Absence de contrôle sur l'âge des travailleurs (risque travail des enfants).</text>
+      </g>
+
+      <path d="M 440 120 L 440 140" stroke="#DC2626" stroke-width="2.5" stroke-dasharray="4"/>
+      <polygon points="436,138 440,146 444,138" fill="#DC2626"/>
+
+      <!-- Étape 2 : Transport initial amont -->
+      <g transform="translate(0, 145)">
+        <rect x="0" y="0" width="880" height="115" rx="8" fill="#FFFFFF" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="115" rx="8" fill="#FEF2F2" stroke="#FCA5A5"/>
+        <text x="90" y="42" font-size="12" font-weight="800" fill="#991B1B" text-anchor="middle">2. TRANSPORT INITIAL</text>
+        <text x="90" y="62" font-size="11" font-weight="800" fill="#991B1B" text-anchor="middle">(COLLECTE AMONT)</text>
+        <text x="90" y="85" font-size="9.5" font-weight="600" fill="#B91C1C" text-anchor="middle">[Flotte Interne Opaque]</text>
+
+        <rect x="200" y="15" width="270" height="85" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="215" y="38" class="card-title">Acheminement sans Suivi</text>
+        <text x="215" y="58" class="body-text">• Transport en vrac sans balisage GPS.</text>
+        <text x="215" y="76" class="body-text">• Arrêts non déclarés en cours de route.</text>
+
+        <rect x="490" y="15" width="375" height="85" rx="6" fill="#FEF2F2" stroke="#EF4444"/>
+        <text x="505" y="36" font-size="11.5" font-weight="800" fill="#B91C1C">⚠️ RISQUE DE DÉTOURNEMENT &amp; MIXAGE</text>
+        <text x="505" y="56" class="body-text">• Remplacement de fèves de qualité par du cacao de second choix.</text>
+        <text x="505" y="76" class="body-text">• Ajout clandestin de fèves issues de zones interdites.</text>
+      </g>
+
+      <path d="M 440 260 L 440 280" stroke="#DC2626" stroke-width="2.5" stroke-dasharray="4"/>
+      <polygon points="436,278 440,286 444,278" fill="#DC2626"/>
+
+      <!-- Étape 3 : Magasin Régional Réception & Pesée 1 -->
+      <g transform="translate(0, 285)">
+        <rect x="0" y="0" width="880" height="115" rx="8" fill="#FFFFFF" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="115" rx="8" fill="#FEF2F2" stroke="#FCA5A5"/>
+        <text x="90" y="42" font-size="12" font-weight="800" fill="#991B1B" text-anchor="middle">3. MAGASIN RÉGIONAL</text>
+        <text x="90" y="62" font-size="11" font-weight="800" fill="#991B1B" text-anchor="middle">(RÉCEPTION / PESÉE 1)</text>
+        <text x="90" y="85" font-size="9.5" font-weight="600" fill="#B91C1C" text-anchor="middle">[Bascule Mécanique]</text>
+
+        <rect x="200" y="15" width="270" height="85" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="215" y="38" class="card-title">Enregistrement Papier</text>
+        <text x="215" y="58" class="body-text">• Pesée mécanique manuelle par le magasinier.</text>
+        <text x="215" y="76" class="body-text">• Inscription manuelle sur le grand livre de stock.</text>
+
+        <rect x="490" y="15" width="375" height="85" rx="6" fill="#FEF2F2" stroke="#EF4444"/>
+        <text x="505" y="36" font-size="11.5" font-weight="800" fill="#B91C1C">⚠️ MANIPULATION DES VOLUMES</text>
+        <text x="505" y="56" class="body-text">• Aucun rapprochement automatique entre le poids bord champ et l'entrée en stock.</text>
+        <text x="505" y="76" class="body-text">• Possibilité pour le magasinier de modifier arbitrairement les chiffres.</text>
+      </g>
+
+      <path d="M 440 400 L 440 420" stroke="#DC2626" stroke-width="2.5" stroke-dasharray="4"/>
+      <polygon points="436,418 440,426 444,418" fill="#DC2626"/>
+
+      <!-- Étape 4 : Analyse 1 (Tiers) + BOUCLE DE RETRAITEMENT SÉCHAGE -->
+      <g transform="translate(0, 425)">
+        <rect x="0" y="0" width="880" height="195" rx="8" fill="#FFFFFF" stroke="#EF4444" stroke-width="2" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="195" rx="8" fill="#FEF2F2" stroke="#FCA5A5"/>
+        <text x="90" y="38" font-size="12" font-weight="800" fill="#991B1B" text-anchor="middle">4. ANALYSE QUALITÉ 1</text>
+        <text x="90" y="56" font-size="11" font-weight="800" fill="#991B1B" text-anchor="middle">(ANALYSEURS TIERS)</text>
+        <text x="90" y="74" font-size="10.5" font-weight="800" fill="#B91C1C" text-anchor="middle">+ RETRAITEMENT</text>
+        <text x="90" y="96" font-size="9" font-weight="600" fill="#7F1D1D" text-anchor="middle">[Point Critique de Fraude]</text>
+
+        <!-- Description Analyse Tiers -->
+        <rect x="195" y="15" width="280" height="75" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="205" y="34" class="card-title">Analyseurs d'Entreprises Tierces</text>
+        <text x="205" y="52" class="body-text">• Outils archaïques (coupe manuelle au couteau).</text>
+        <text x="205" y="70" class="body-text">• Estimation subjective du taux d'humidité et moisissure.</text>
+
+        <rect x="490" y="15" width="375" height="75" rx="6" fill="#FEF2F2" stroke="#EF4444"/>
+        <text x="505" y="34" font-size="11" font-weight="800" fill="#B91C1C">⚠️ RISQUE CRITIQUE DE COMPLAISANCE</text>
+        <text x="505" y="52" class="body-text">• Entente et corruption entre analyseurs tiers et chefs de site.</text>
+        <text x="505" y="70" class="body-text">• Délivrance de faux certificats « Bon pour export » pour du cacao pourri.</text>
+
+        <!-- La boucle de retraitement (Séchage au soleil) -->
+        <rect x="195" y="100" width="670" height="82" rx="6" fill="#FFFBEB" stroke="#F59E0B" stroke-dasharray="4"/>
+        <text x="205" y="118" font-size="11.5" font-weight="800" fill="#B45309">
+          🔄 ÉTAPE INTERMÉDIAIRE : BOUCLE DE RETRAITEMENT EN CAS DE MAUVAISE QUALITÉ
+        </text>
+        <text x="205" y="136" font-size="10.5" fill="#78350F">
+          1. Exposition au soleil sur aires ouvertes (réduction manuelle de l'humidité) ➔ 2. Restockage manuel en magasin ➔
+        </text>
+        <text x="205" y="154" font-size="10.5" fill="#78350F">
+          3. Nouvelle pesée mécanique ➔ 4. Ré-analyse manuelle par les analyseurs tiers.
+        </text>
+        <text x="205" y="172" font-size="10" font-weight="700" fill="#DC2626">
+          Impact direct : Pertes massives par freinte/vol masquées sous prétexte de séchage, retards de 3 à 6 jours et surcoûts.
+        </text>
+      </g>
+
+      <path d="M 440 620 L 440 640" stroke="#DC2626" stroke-width="2.5" stroke-dasharray="4"/>
+      <polygon points="436,638 440,646 444,638" fill="#DC2626"/>
+
+      <!-- Étape 5 : Transport portuaire aval -->
+      <g transform="translate(0, 645)">
+        <rect x="0" y="0" width="880" height="115" rx="8" fill="#FFFFFF" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="115" rx="8" fill="#FEF2F2" stroke="#FCA5A5"/>
+        <text x="90" y="42" font-size="12" font-weight="800" fill="#991B1B" text-anchor="middle">5. TRANSPORT PORTUAIRE</text>
+        <text x="90" y="62" font-size="11" font-weight="800" fill="#991B1B" text-anchor="middle">(TRANSPORTEURS TIERS)</text>
+        <text x="90" y="85" font-size="9.5" font-weight="600" fill="#B91C1C" text-anchor="middle">[Flotte externe sans GPS]</text>
+
+        <rect x="200" y="15" width="270" height="85" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="215" y="38" class="card-title">Transfert vers Abidjan</text>
+        <text x="215" y="58" class="body-text">• Camions gros porteurs loués à des tiers.</text>
+        <text x="215" y="76" class="body-text">• Feuille de route papier simple sans scellés.</text>
+
+        <rect x="490" y="15" width="375" height="85" rx="6" fill="#FEF2F2" stroke="#EF4444"/>
+        <text x="505" y="36" font-size="11.5" font-weight="800" fill="#B91C1C">⚠️ LE TROU NOIR DES TONNAGES (5-15% PERDUS)</text>
+        <text x="505" y="56" class="body-text">• Déchargements partiels clandestins et vols de sacs sur la route.</text>
+        <text x="505" y="76" class="body-text">• Absence totale de preuve sur le lieu exact des disparitions de marchandises.</text>
+      </g>
+
+      <path d="M 440 760 L 440 780" stroke="#DC2626" stroke-width="2.5" stroke-dasharray="4"/>
+      <polygon points="436,778 440,786 444,778" fill="#DC2626"/>
+
+      <!-- Étape 6 : Arrivée au port d'Abidjan & Labo 2 -->
+      <g transform="translate(0, 785)">
+        <rect x="0" y="0" width="880" height="130" rx="8" fill="#FFFFFF" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="130" rx="8" fill="#FEF2F2" stroke="#FCA5A5"/>
+        <text x="90" y="42" font-size="12" font-weight="800" fill="#991B1B" text-anchor="middle">6. ARRIVÉE PORT</text>
+        <text x="90" y="62" font-size="11" font-weight="800" fill="#991B1B" text-anchor="middle">(ANALYSE 2 &amp; EXPORT)</text>
+        <text x="90" y="85" font-size="9.5" font-weight="600" fill="#B91C1C" text-anchor="middle">[Laboratoire Portuaire]</text>
+
+        <rect x="200" y="15" width="270" height="100" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="215" y="38" class="card-title">Verdict Contradictoire</text>
+        <text x="215" y="58" class="body-text">• Pesée officielle sur pont-bascule portuaire.</text>
+        <text x="215" y="76" class="body-text">• Seconde analyse par laboratoire agréé tiers.</text>
+        <text x="215" y="94" class="body-text">• Dossier douanier transmis avec retards.</text>
+
+        <rect x="490" y="15" width="375" height="100" rx="6" fill="#0B132B"/>
+        <text x="505" y="34" font-size="11.5" font-weight="800" fill="#EF4444">💥 LITIGES, PÉNALITÉS &amp; RISQUE RDUE</text>
+        <text x="505" y="54" font-size="10.5" fill="#F8FAFC">• <tspan font-weight="700">Discordance Qualité :</tspan> Déclassement inattendu de lots déclarés conformes en région.</text>
+        <text x="505" y="74" font-size="10.5" fill="#F8FAFC">• Écarts de tonnage inexpliqués (5 à 15 %) générant des pertes nettes colossales.</text>
+        <text x="505" y="94" font-size="10.5" fill="#FCA5A5">• Rejet potentiel des cargaisons à l'entrée de l'UE pour défaut de preuve d'origine.</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ========================================================================= -->
+  <!-- BANDEAU DE TRANSITION / RUPTURE TECHNOLOGIQUE                             -->
+  <!-- ========================================================================= -->
+  <g transform="translate(60, 1260)">
+    <rect x="0" y="0" width="880" height="75" rx="10" fill="#0F172A"/>
+    <text x="440" y="32" font-size="14" font-weight="800" fill="#38BDF8" text-anchor="middle">
+      TRANSFORMATION DU SYSTÈME D’INFORMATION (BPR &amp; GOUVERNANCE TI)
+    </text>
+    <text x="440" y="54" font-size="11.5" font-weight="600" fill="#FFFFFF" text-anchor="middle">
+      Séparation des tâches (SoD), balances IoT scellées, suivi WMS du séchage et Smart Contracts Blockchain.
+    </text>
+  </g>
+
+  <!-- ========================================================================= -->
+  <!-- PARTIE 2 : PROCESSUS CIBLE (TO-BE) MIS À JOUR                             -->
+  <!-- ========================================================================= -->
+  <g transform="translate(60, 1355)">
+    <rect x="0" y="0" width="880" height="45" rx="8" fill="#047857"/>
+    <text x="20" y="28" class="sec-title">PARTIE 2 — LE PROCESSUS CIBLE (TO-BE) : « CONNECTÉ, AUTOMATISÉ ET INFALSIFIABLE »</text>
+
+    <g transform="translate(0, 55)">
+
+      <!-- Étape 1 Cible : MDM Planteur & GPS -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="880" height="120" rx="8" fill="#FFFFFF" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="120" rx="8" fill="#ECFDF5" stroke="#A7F3D0"/>
+        <text x="90" y="42" font-size="12" font-weight="800" fill="#047857" text-anchor="middle">1. RÉFÉRENTIEL MDM</text>
+        <text x="90" y="62" font-size="11" font-weight="800" fill="#047857" text-anchor="middle">&amp; CARTOGRAPHIE</text>
+        <text x="90" y="85" font-size="9.5" font-weight="600" fill="#059669" text-anchor="middle">[Golden Record]</text>
+
+        <rect x="200" y="15" width="270" height="90" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="215" y="38" class="card-title">Identification &amp; Cadastre</text>
+        <text x="215" y="58" class="body-text">• Polygone GPS de chaque parcelle dans le MDM.</text>
+        <text x="215" y="76" class="body-text">• Statut de certification anti-déforestation vérifié.</text>
+        <text x="215" y="94" class="body-text">• Audit social (zéro travail des enfants) validé.</text>
+
+        <rect x="490" y="15" width="375" height="90" rx="6" fill="#ECFDF5" stroke="#10B981"/>
+        <text x="505" y="36" font-size="11.5" font-weight="800" fill="#047857">🛡️ CONFORMITÉ RDUE À LA SOURCE</text>
+        <text x="505" y="56" class="body-text">• Superposition automatique avec la carte des forêts classées ivoiriennes.</text>
+        <text x="505" y="78" class="body-text">• Impossibilité d'enregistrer un achat si la parcelle n'est pas certifiée conforme.</text>
+      </g>
+
+      <path d="M 440 120 L 440 140" stroke="#059669" stroke-width="2.5"/>
+      <polygon points="436,138 440,146 444,138" fill="#059669"/>
+
+      <!-- Étape 2 Cible : App Mobile + Balance IoT Bord Champ -->
+      <g transform="translate(0, 145)">
+        <rect x="0" y="0" width="880" height="120" rx="8" fill="#FFFFFF" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="120" rx="8" fill="#ECFDF5" stroke="#A7F3D0"/>
+        <text x="90" y="42" font-size="12" font-weight="800" fill="#047857" text-anchor="middle">2. ACHAT BORD CHAMP</text>
+        <text x="90" y="62" font-size="11" font-weight="800" fill="#047857" text-anchor="middle">(APP + BALANCE IoT)</text>
+        <text x="90" y="85" font-size="9.5" font-weight="600" fill="#059669" text-anchor="middle">[Edge Computing]</text>
+
+        <rect x="200" y="15" width="270" height="90" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="215" y="38" class="card-title">Pesée Chiffrée &amp; Horodatée</text>
+        <text x="215" y="58" class="body-text">• Balance connectée captant directement la masse.</text>
+        <text x="215" y="76" class="body-text">• Prix fixé automatiquement par le barème ERP.</text>
+        <text x="215" y="94" class="body-text">• Géolocalisation GPS obligatoire de l'achat.</text>
+
+        <rect x="490" y="15" width="375" height="90" rx="6" fill="#ECFDF5" stroke="#10B981"/>
+        <text x="505" y="36" font-size="11.5" font-weight="800" fill="#047857">🛡️ GÉOREPÉRAGE BLOQUANT &amp; ZÉRO TRICHE</text>
+        <text x="505" y="56" class="body-text">• L'acheteur ne peut pas saisir le poids à la main : fin du vol sur le volume.</text>
+        <text x="505" y="78" class="body-text">• Si le GPS détecte un achat hors parcelle autorisée, la transaction est bloquée.</text>
+      </g>
+
+      <path d="M 440 265 L 440 285" stroke="#059669" stroke-width="2.5"/>
+      <polygon points="436,283 440,291 444,283" fill="#059669"/>
+
+      <!-- Étape 3 Cible : Transport Amont Géorepéré (TMS) -->
+      <g transform="translate(0, 290)">
+        <rect x="0" y="0" width="880" height="120" rx="8" fill="#FFFFFF" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="120" rx="8" fill="#ECFDF5" stroke="#A7F3D0"/>
+        <text x="90" y="42" font-size="12" font-weight="800" fill="#047857" text-anchor="middle">3. TRANSPORT AMONT</text>
+        <text x="90" y="62" font-size="11" font-weight="800" fill="#047857" text-anchor="middle">(TÉLÉMATIQUE TMS)</text>
+        <text x="90" y="85" font-size="9.5" font-weight="600" fill="#059669" text-anchor="middle">[Corridor Sécurisé]</text>
+
+        <rect x="200" y="15" width="270" height="90" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="215" y="38" class="card-title">Trajet Sous Contrôle</text>
+        <text x="215" y="58" class="body-text">• Balises GPS télématiques actives sur les camions.</text>
+        <text x="215" y="76" class="body-text">• Feuille de route numérique horodatée.</text>
+        <text x="215" y="94" class="body-text">• Scellés électroniques sur les bennes de collecte.</text>
+
+        <rect x="490" y="15" width="375" height="90" rx="6" fill="#ECFDF5" stroke="#10B981"/>
+        <text x="505" y="36" font-size="11.5" font-weight="800" fill="#047857">🛡️ SURVEILLANCE DES DÉTOURNEMENTS</text>
+        <text x="505" y="56" class="body-text">• Alerte immédiate transmise au centre opérationnel si arrêt suspect en route.</text>
+        <text x="505" y="78" class="body-text">• Interdiction absolue d'incursion dans les corridors forestiers classés.</text>
+      </g>
+
+      <path d="M 440 410 L 440 430" stroke="#059669" stroke-width="2.5"/>
+      <polygon points="436,428 440,436 444,428" fill="#059669"/>
+
+      <!-- Étape 4 Cible : Magasin Régional (Séparation SoD, Capteurs connectés & Suivi WMS du Séchage) -->
+      <g transform="translate(0, 435)">
+        <rect x="0" y="0" width="880" height="195" rx="8" fill="#FFFFFF" stroke="#10B981" stroke-width="2" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="195" rx="8" fill="#ECFDF5" stroke="#A7F3D0"/>
+        <text x="90" y="36" font-size="12" font-weight="800" fill="#047857" text-anchor="middle">4. MAGASIN RÉGIONAL</text>
+        <text x="90" y="54" font-size="11" font-weight="800" fill="#047857" text-anchor="middle">(ANALYSE CONNECTÉE)</text>
+        <text x="90" y="72" font-size="10.5" font-weight="800" fill="#059669" text-anchor="middle">+ SÉCHAGE TRACÉ WMS</text>
+        <text x="90" y="94" font-size="9" font-weight="600" fill="#047857" text-anchor="middle">[Séparation des Tâches SoD]</text>
+
+        <rect x="195" y="15" width="280" height="75" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="205" y="34" class="card-title">Instruments Numériques Scellés</text>
+        <text x="205" y="52" class="body-text">• Humidimètres et analyseurs optiques connectés.</text>
+        <text x="205" y="70" class="body-text">• Transmission directe des résultats à l'ERP par API.</text>
+
+        <rect x="490" y="15" width="375" height="75" rx="6" fill="#ECFDF5" stroke="#10B981"/>
+        <text x="505" y="34" font-size="11" font-weight="800" fill="#047857">🛡️ FIN DES ARRANGEMENTS DE COMPLAISANCE</text>
+        <text x="505" y="52" class="body-text">• Les analyseurs tiers n'ont plus la main pour falsifier les fiches qualité.</text>
+        <text x="505" y="70" class="body-text">• Séparation stricte SoD : le magasinier ne peut pas valider la qualité.</text>
+
+        <!-- Séchage maîtrisé et tracé WMS -->
+        <rect x="195" y="100" width="670" height="82" rx="6" fill="#ECFDF5" stroke="#059669"/>
+        <text x="205" y="118" font-size="11.5" font-weight="800" fill="#047857">
+          ✅ RETRAITEMENT INTÉGRÉ &amp; FREINTES DE SÉCHAGE CALCULÉES PAR LE WMS
+        </text>
+        <text x="205" y="136" font-size="10.5" fill="#065F46">
+          • Si un lot humide nécessite un séchage au soleil, il entre dans un workflow contrôlé dans le module WMS.
+        </text>
+        <text x="205" y="154" font-size="10.5" fill="#065F46">
+          • Le WMS calcule mathématiquement la perte d'eau admissible selon le taux d'humidité : aucun vol ne peut être masqué !
+        </text>
+        <text x="205" y="172" font-size="10" font-weight="700" fill="#047857">
+          Résultat : Rapprochement 3 voies (Poids initial = Poids sec + Évaporation tracée). Zéro perte inexpliquée.
+        </text>
+      </g>
+
+      <path d="M 440 630 L 440 650" stroke="#059669" stroke-width="2.5"/>
+      <polygon points="436,648 440,656 444,648" fill="#059669"/>
+
+      <!-- Étape 5 Cible : Transport Portuaire Aval Scellé RFID -->
+      <g transform="translate(0, 655)">
+        <rect x="0" y="0" width="880" height="120" rx="8" fill="#FFFFFF" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="120" rx="8" fill="#ECFDF5" stroke="#A7F3D0"/>
+        <text x="90" y="42" font-size="12" font-weight="800" fill="#047857" text-anchor="middle">5. TRANSPORT PORTUAIRE</text>
+        <text x="90" y="62" font-size="11" font-weight="800" fill="#047857" text-anchor="middle">(SCELLÉS RFID &amp; TMS)</text>
+        <text x="90" y="85" font-size="9.5" font-weight="600" fill="#059669" text-anchor="middle">[Convois Verrouillés]</text>
+
+        <rect x="200" y="15" width="270" height="90" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="215" y="38" class="card-title">Flotte Sécurisée</text>
+        <text x="215" y="58" class="body-text">• Scellés électroniques RFID sur les portes conteneurs.</text>
+        <text x="215" y="76" class="body-text">• Géolocalisation active jusqu'au port d'Abidjan.</text>
+        <text x="215" y="94" class="body-text">• Bon de transport électronique (e-CMR).</text>
+
+        <rect x="490" y="15" width="375" height="90" rx="6" fill="#ECFDF5" stroke="#10B981"/>
+        <text x="505" y="36" font-size="11.5" font-weight="800" fill="#047857">🛡️ INTÉGRITÉ TOTALE DE CARGAISON</text>
+        <text x="505" y="56" class="body-text">• Toute ouverture de scellé hors zone portuaire déclenche une alarme instantanée.</text>
+        <text x="505" y="78" class="body-text">• Réduction des disparitions inexpliquées de 15% à moins de 2% (tolérance freinte).</text>
+      </g>
+
+      <path d="M 440 775 L 440 795" stroke="#059669" stroke-width="2.5"/>
+      <polygon points="436,793 440,801 444,793" fill="#059669"/>
+
+      <!-- Étape 6 Cible : Port d'Abidjan, Blockchain Smart Contracts & Dashboard -->
+      <g transform="translate(0, 800)">
+        <rect x="0" y="0" width="880" height="135" rx="8" fill="#FFFFFF" filter="url(#cardShadow)"/>
+        <rect x="0" y="0" width="180" height="135" rx="8" fill="#0B132B"/>
+        <text x="90" y="42" font-size="12" font-weight="800" fill="#FFFFFF" text-anchor="middle">6. ARRIVÉE PORT &amp;</text>
+        <text x="90" y="62" font-size="11" font-weight="800" fill="#38BDF8" text-anchor="middle">CERTIFICATION EXPORT</text>
+        <text x="90" y="85" font-size="9.5" font-weight="600" fill="#94A3B8" text-anchor="middle">[Blockchain &amp; BI]</text>
+
+        <rect x="200" y="15" width="270" height="105" rx="6" fill="#F8FAFC" stroke="#E2E8F0"/>
+        <text x="215" y="38" class="card-title">Validation Portuaire Automatique</text>
+        <text x="215" y="58" class="body-text">• Double lecture RFID + Pesée pont-bascule connectée.</text>
+        <text x="215" y="76" class="body-text">• Concordance Qualité validée (>95% conforme).</text>
+        <text x="215" y="94" class="body-text">• Émission du passeport numérique (QR Code).</text>
+
+        <rect x="490" y="15" width="375" height="105" rx="6" fill="#0B132B"/>
+        <text x="505" y="34" font-size="11.5" font-weight="800" fill="#34D399">🎯 AUDITABILITÉ RDUE EN MOINS DE 5 MINUTES</text>
+        <text x="505" y="54" font-size="10.5" fill="#F8FAFC">• <tspan font-weight="700">Preuve immuable :</tspan> Le Smart Contract scelle l'historique de chaque fève.</text>
+        <text x="505" y="74" font-size="10.5" fill="#F8FAFC">• Les douanes européennes scannent le conteneur et vérifient l'origine sans contestation.</text>
+        <text x="505" y="94" font-size="10.5" fill="#38BDF8">• Cockpit exécutif BI en direct pour le Directeur Général à Abidjan.</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ========================================================================= -->
+  <!-- PARTIE 3 : SYNTHÈSE DES GAINS CHIFFRÉS                                    -->
+  <!-- ========================================================================= -->
+  <g transform="translate(60, 2400)">
+    <rect x="0" y="0" width="880" height="45" rx="8" fill="#1E293B"/>
+    <text x="20" y="28" class="sec-title">PARTIE 3 — SYNTHÈSE DE CRÉATION DE VALEUR : RÉSULTATS COMPARATIFS CHIFFRÉS</text>
+
+    <g transform="translate(0, 55)">
+      <rect x="0" y="0" width="880" height="290" rx="10" fill="#FFFFFF" filter="url(#cardShadow)"/>
+
+      <rect x="15" y="15" width="850" height="35" rx="4" fill="#0B132B"/>
+      <text x="110" y="37" font-size="11" font-weight="800" fill="#38BDF8" text-anchor="middle">INDICATEURS CLÉS</text>
+      <text x="320" y="37" font-size="11" font-weight="800" fill="#EF4444" text-anchor="middle">PROCESSUS ACTUEL (AS-IS)</text>
+      <text x="560" y="37" font-size="11" font-weight="800" fill="#34D399" text-anchor="middle">PROCESSUS CIBLE (TO-BE)</text>
+      <text x="760" y="37" font-size="11" font-weight="800" fill="#FBBF24" text-anchor="middle">VALEUR / IMPACT MÉTIER</text>
+
+      <g transform="translate(15, 55)">
+        <rect x="0" y="0" width="850" height="36" fill="#F8FAFC"/>
+        <text x="95" y="22" font-size="11" font-weight="700" fill="#0F172A" text-anchor="middle">Pertes de tonnage</text>
+        <text x="305" y="22" font-size="11" font-weight="700" fill="#B91C1C" text-anchor="middle">5 à 15 % (vols et pesées fausses)</text>
+        <text x="545" y="22" font-size="11" font-weight="700" fill="#047857" text-anchor="middle">&lt; 2 % (freinte d'évaporation)</text>
+        <text x="745" y="22" font-size="10.5" font-weight="800" fill="#1E293B" text-anchor="middle">+ 8 à 13 % de tonnage sauvé</text>
+      </g>
+
+      <g transform="translate(15, 95)">
+        <rect x="0" y="0" width="850" height="36" fill="#FFFFFF"/>
+        <text x="95" y="22" font-size="11" font-weight="700" fill="#0F172A" text-anchor="middle">Boucle de séchage</text>
+        <text x="305" y="22" font-size="11" font-weight="700" fill="#B91C1C" text-anchor="middle">Informelle, masquant des vols</text>
+        <text x="545" y="22" font-size="11" font-weight="700" fill="#047857" text-anchor="middle">Automatisée &amp; tracée par le WMS</text>
+        <text x="745" y="22" font-size="10.5" font-weight="800" fill="#1E293B" text-anchor="middle">Pertes d'eau calculées au gramme</text>
+      </g>
+
+      <g transform="translate(15, 135)">
+        <rect x="0" y="0" width="850" height="36" fill="#F8FAFC"/>
+        <text x="95" y="22" font-size="11" font-weight="700" fill="#0F172A" text-anchor="middle">Analyse Qualité 1</text>
+        <text x="305" y="22" font-size="11" font-weight="700" fill="#B91C1C" text-anchor="middle">Analyseurs tiers (complaisance)</text>
+        <text x="545" y="22" font-size="11" font-weight="700" fill="#047857" text-anchor="middle">Capteurs scellés + Séparation SoD</text>
+        <text x="745" y="22" font-size="10.5" font-weight="800" fill="#1E293B" text-anchor="middle">Fin des faux certificats locaux</text>
+      </g>
+
+      <g transform="translate(15, 175)">
+        <rect x="0" y="0" width="850" height="36" fill="#FFFFFF"/>
+        <text x="95" y="22" font-size="11" font-weight="700" fill="#0F172A" text-anchor="middle">Concordance Qualité</text>
+        <text x="305" y="22" font-size="11" font-weight="700" fill="#B91C1C" text-anchor="middle">Contestations et déclassements</text>
+        <text x="545" y="22" font-size="11" font-weight="700" fill="#047857" text-anchor="middle">&gt; 95 % validée à l'arrivée port</text>
+        <text x="745" y="22" font-size="10.5" font-weight="800" fill="#1E293B" text-anchor="middle">Élimination des pénalités port</text>
+      </g>
+
+      <g transform="translate(15, 215)">
+        <rect x="0" y="0" width="850" height="36" fill="#F8FAFC"/>
+        <text x="95" y="22" font-size="11" font-weight="700" fill="#0F172A" text-anchor="middle">Traçabilité RDUE</text>
+        <text x="305" y="22" font-size="11" font-weight="700" fill="#B91C1C" text-anchor="middle">3 à 7 jours sur cahiers (rejet UE)</text>
+        <text x="545" y="22" font-size="11" font-weight="700" fill="#047857" text-anchor="middle">&lt; 5 minutes par scan QR Code</text>
+        <text x="745" y="22" font-size="10.5" font-weight="800" fill="#1E293B" text-anchor="middle">Pérennisation des contrats UE</text>
+      </g>
+
+      <g transform="translate(15, 255)">
+        <text x="425" y="20" font-size="11.5" font-weight="800" fill="#059669" text-anchor="middle">
+          RETOUR SUR INVESTISSEMENT (ROI) GLOBAL : RENTABILISATION MODÉLISÉE SOUS 18 MOIS.
+        </text>
+      </g>
+    </g>
+  </g>
+
+  <!-- ================= PIED DE PAGE ================= -->
+  <g transform="translate(0, 2790)">
+    <rect x="0" y="0" width="1000" height="150" fill="#0F172A"/>
+    <text x="500" y="55" font-size="14.5" font-weight="800" fill="#38BDF8" text-anchor="middle">
+      PROJET DE TRANSFORMATION NUMÉRIQUE DU SI &amp; GOUVERNANCE D'ENTREPRISE
+    </text>
+    <text x="500" y="80" font-size="11.5" font-weight="500" fill="#94A3B8" text-anchor="middle">
+      Conçu et modélisé par Joye Badou — DESS en Gouvernance des Systèmes d'Information
+    </text>
+    <text x="500" y="105" font-size="10.5" font-weight="400" fill="#64748B" text-anchor="middle">
+      Cas d'application : SAAC Côte d'Ivoire (Traçabilité cacao, IoT, Blockchain, WMS/TMS et ERP)
+    </text>
+  </g>
+
+</svg>
