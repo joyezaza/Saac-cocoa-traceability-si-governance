@@ -49,7 +49,7 @@ La solution conçue ne se limite pas à informatiser des cahiers existants ; ell
 1. **Défaillance et opacité des données :** Multiplicité des saisies manuelles sur papier, registres non synchronisés et impossibilité de vérifier les antécédents d'un lot.
 2. **Vulnérabilité aux arrangements locaux :** Recours à des analyseurs tiers sans traçabilité instrumentée et absence de séparation des tâches (**SoD**).
 3. **Pertes cumulées lors des retraitements :** Le séchage au soleil et les pesées successives créent un « trou noir » logistique masquant les vols sous couvert de freinte naturelle.
-4. **Risque de rejet международal (RDUE) :** Incapacité de certifier l'absence de déforestation et la légalité sociale dès le premier kilomètre.
+4. **Risque de rejet international (RDUE) :** Incapacité de certifier l'absence de déforestation et la légalité sociale dès le premier kilomètre.
 
 
 ---
